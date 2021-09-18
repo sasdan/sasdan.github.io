@@ -4,16 +4,6 @@ title: About
 permalink: /about/
 ---
 
+Saskia Kroonenberg investigates how languages and bodies interrelate in a highly medialized and globalizing world. She does so by means of dance, poetry, and by writing a doctoral thesis which combines Italian literature, historical linguistics, and philosophy. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Saskia is a [Marie-Curie Doctoral Fellow at the a.r.t.e.s. Graduate School for the Humanities](https://artes.phil-fak.uni-koeln.de/forschung/dissertationsprojekte-im-integrated-track/profilseiten-it/kroonenberg-saskia) in Cologne and an affiliated researcher at the [Institute for Cultural Inquiry (ICON)](https://www.uu.nl/en/research/institute-for-cultural-inquiry) at Utrecht University. Her research aims to redefine the notion of a ‘mother tongue’ in a globalizing world, as a non-unitary relation between bodies, languages, and earth. 
