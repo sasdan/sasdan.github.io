@@ -12,8 +12,8 @@ permalink: /art/
 
 - A Poetic Intervention on Life Before Birth, Summer School on Philosophy and Psychoanalysis: “Icone del desiderio”, Palazzo Arese Borromeo, Cesano Maderno, Italy, 12-14 June 2019.
 
-- Photography Exhibition: Appearances, De Ruimte, Amsterdam, January - June 2019.
+- Photography Exhibition: Appearances, [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, January - June 2019.
 
-- Photography Exhibition: Stoelen in kerken (Chairs in Churches), De Ruimte, Amsterdam, March-August, 2018.
+- Photography Exhibition: Stoelen in kerken (Chairs in Churches), [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, March-August, 2018.
 
-- Performance: Dance Yourself Clean, with Aureline D’Haese, Amsterdam Hogeschool voor de Kunsten, June 2017.
+- Performance: Dance Yourself Clean, with Aureline D’Haese, [Amsterdam Hogeschool voor de Kunsten](https://www.ahk.nl/), June 2017.
