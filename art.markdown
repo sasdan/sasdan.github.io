@@ -17,3 +17,5 @@ permalink: /art/
 - Photography Exhibition: Stoelen in kerken (Chairs in Churches), [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, March-August, 2018.
 
 - Performance: Dance Yourself Clean, with Aureline D’Haese, [Amsterdam Hogeschool voor de Kunsten](https://www.ahk.nl/), June 2017.
+
+![Picture of Chairs in Churches Exhibition](/assets/chair_in_church.png)
