@@ -18,4 +18,4 @@ permalink: /art/
 
 - Performance: Dance Yourself Clean, with Aureline D’Haese, [Amsterdam Hogeschool voor de Kunsten](https://www.ahk.nl/), June 2017.
 
-![Picture of Chairs in Churches Exhibition](/assets/chair_in_church.png)
+![Picture of Dance Yourself Clean](/assets/dance_clean.png)
