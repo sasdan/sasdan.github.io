@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Academic
+permalink: /academic/
 ---
 
 
@@ -47,8 +47,6 @@ Talks and Lectures
 - Forgetting Gramsci, Forms and Forgetting, [AHRC International Conference](https://2020.cambridgeahrcdtpconferences.co.uk/), University of Cambridge, 22 September 2020.
 
 - Italiaans feminisme en Luisa Muraro’s Symbolische orde van de moeder, Concerning Maternity, University of Humanistic Studies, Utrecht, 31 January 2020.
-
-- A Poetic Intervention on Life Before Birth, Summer School on Philosophy and Psychoanalysis: “Icone del desiderio”, Palazzo Arese Borromeo, Cesano Maderno, Italy, 12-14 June 2019.
 
 - [It’s not Youth, it’s Us. Youth Suicides and Rosi Braidotti’s Posthuman](https://euroacademia.eu/presentation/it%e2%80%99s-not-youth-it%e2%80%99s-us-youth-suicides-and-rosi-braidotti%e2%80%99s-post-human-ethics/), Euroacademia’s 6th International Forum of Critical Studies: “Asking Big Questions Again”, Auditorium of the Agora Cultural Centre, Lucca, Italy, 23-25 November 2017.
 
