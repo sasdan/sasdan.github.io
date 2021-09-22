@@ -20,8 +20,7 @@ Academic Publications
 Public Outreach
 ---------------
  
-- Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May] 
-(https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
+- Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
 
 - Kroonenberg, S. (2019) [Zorgen, koken, wassen: de oplossingen voor onze ecologische automutilatie, Atria, 8 January](https://atria.nl/nieuws-publicaties/feminisme/feminisme-21ste-eeuw/zorgen-koken-wassen-de-oplossingen-voor-onze-ecologische-automutilatie/)
 
