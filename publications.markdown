@@ -8,7 +8,7 @@ permalink: /academic/
 Publications
 ------------
 
-- Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, Davids, Tine and Karin Willemse, eds. Routledge, 2021 (peer-reviewed)
+- Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, Davids, Tine and Karin Willemse, eds. Routledge (peer-reviewed)
 
 - Kroonenberg, S. (2019) [La genealogia della madre: Maria Drago e la ‘lingua della mamma’, Carte Italiane, 12 (1), 35-50](https://escholarship.org/uc/item/2bq1j688#main) (peer-reviewed)
 
