@@ -6,7 +6,11 @@ date:   2021-11-15 09:32:40 +0200
 
 Coming Soon: No Strings Attached?
 
-![image](https://user-images.githubusercontent.com/90840779/144761180-a1ad33e1-5f90-4c5f-93b4-d363ec1f4d64.png)
+
+
+![image](https://user-images.githubusercontent.com/90840779/144761282-006427a8-f3f2-4551-9ed4-af4480884623.png)
+
+
 
 ![No Strings Attached](/assets/no-strings-attached.png)
 
