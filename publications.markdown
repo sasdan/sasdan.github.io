@@ -32,6 +32,10 @@ Public Outreach
 Talks and Lectures
 ------------------
 
+- Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini. [LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?] (https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/), IIRE, Amsterdam, 11/12/2021
+
+- Speaking Like a Plant, Laughing Like a River. Language and Terra in Italian Postcolonial Literature, [Contemporary Literature and the Environmental Imagination] (https://www.literature.green/en/conference-2021/), Ghent University, Belgium, 8/12/2020
+
 - Letteratura «italiana» o «straniera»? Gramsci e l’assenza di una letteratura nazional-popolare in Italia, [Dies Turicensis, University of Zurich](https://www.rose.uzh.ch/de/forschung/forschungamrose/kongresse/diesromanicusturicensis/diesromanicusXI2021.html), 09-10 September 2021.
 
 - Guest Lecture: Gli studi postcoloniali e “Future”, Utrecht University, 25 May 2021.
