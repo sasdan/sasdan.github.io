@@ -4,7 +4,7 @@ title: Art
 permalink: /art/
 ---
 
-- Coming soon: No Strings Attached? Finding New Ways of Communicating, Digital exhibition “After Progress”, Goldsmiths College, London
+- Coming soon: [No Strings Attached? Finding New Ways of Communicating](https://saskia.dance/2021/11/15/no-strings-attached.html), Digital exhibition “After Progress”, Goldsmiths College, London
 
 - Performance Installation: Aceleratio. The Art of Slowing Down in Times of a Pandemic, Co-author of a poetic text, Pleintheater & NDSM Werf, Amsterdam, 26 February 2021 & May 2021.
 
