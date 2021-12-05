@@ -8,7 +8,9 @@ Coming Soon: No Strings Attached?
 
 
 
-![image](https://user-images.githubusercontent.com/90840779/144761282-006427a8-f3f2-4551-9ed4-af4480884623.png)
+
+![image](https://user-images.githubusercontent.com/90840779/144761398-5ad4bb51-a65e-4fa2-8da1-5bb9ae07a624.png)
+
 
 
 
