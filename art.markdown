@@ -6,6 +6,8 @@ permalink: /art/
 
 - Coming soon: [No Strings Attached? Finding New Ways of Communicating](https://saskia.dance/2021/11/15/no-strings-attached.html), Digital exhibition “After Progress”, Goldsmiths College, London
 
+- Poem: Mijn steen en ik, in: Niet vrijwillig zit ik afgezonderd, edited by Wietse Hummel, [Uitgeverij Gopher](https://www.gopher.nl/), 2022.
+
 - Performance Installation: Aceleratio. The Art of Slowing Down in Times of a Pandemic, Co-author of a poetic text, Pleintheater & NDSM Werf, Amsterdam, 26 February 2021 & May 2021.
 
 - Poetry podcast: [Vruchtwater, De Wereld en de Dingen](https://open.spotify.com/episode/3VQltbrDrbPZRUbr9Uot9l), with [Emma Zuiderveen](https://emmazuiderveen.nl/) and Tarif El Fasih, January 2021
