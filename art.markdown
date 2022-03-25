@@ -10,7 +10,7 @@ permalink: /art/
 
 - Performance Installation: Aceleratio. The Art of Slowing Down in Times of a Pandemic, Co-author of a poetic text, Pleintheater & NDSM Werf, Amsterdam, 26 February 2021 & May 2021.
 
-- Poetry podcast: [Vruchtwater, De Wereld en de Dingen](https://open.spotify.com/episode/3VQltbrDrbPZRUbr9Uot9l), with [Emma Zuiderveen](https://emmazuiderveen.nl/) and Tarif El Fasih, January 2021
+- Poetry podcast: [Vruchtwater, De Wereld en de Dingen](https://soundcloud.com/lebowskipublishers/de-wereld-en-de-dingen-5-vruchtwater), with [Emma Zuiderveen](https://emmazuiderveen.nl/) and Tarif El Fasih, January 2021
 
 - A Poetic Intervention on Life Before Birth, Summer School on Philosophy and Psychoanalysis: “Icone del desiderio”, Palazzo Arese Borromeo, Cesano Maderno, Italy, 12-14 June 2019.
 
