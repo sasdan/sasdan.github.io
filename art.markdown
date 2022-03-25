@@ -4,7 +4,7 @@ title: Art
 permalink: /art/
 ---
 
-- Coming soon: [No Strings Attached? Finding New Ways of Communicating](https://saskia.dance/2021/11/15/no-strings-attached.html), Digital exhibition “After Progress”, Goldsmiths College, London
+- Multimedia Reflection: [No Strings Attached? Finding New Ways of Communicating](https://www.afterprogress.com/no-strings-attached-finding-new-ways-of-communicating), Digital exhibition “After Progress”, Goldsmiths College, London
 
 - Poem: Mijn steen en ik, in: Niet vrijwillig zit ik afgezonderd, edited by Wietse Hummel, [Uitgeverij Gopher](https://www.gopher.nl/), 2022.
 
