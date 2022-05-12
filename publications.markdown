@@ -19,6 +19,7 @@ Publications
  
 Public Outreach
 ---------------
+- Kroonenberg, S. (2022) Mentoring in Times of a Pandemic – Some Personal Experiences,	[a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf)
  
 - Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
 
