@@ -30,8 +30,9 @@ Public Outreach
 - Kroonenberg, S. (2016) [Lapt Renzi de grondwet aan zijn laars?, DeFusie, 28 November](http://defusie.net/lapt-renzi-de-grondwet-aan-zijn-laars/)
 
 
-Talks and Lectures
+Conferences and Lectures
 ------------------
+- Organiser of the summer school [Space After Borders / Lo spazio oltre i confini](https://www.spaceafterborders.com/en/), Monte Verità, Swiss, 21-22 July 2022, including an [interview with Amara Lakhous by Loredana Polezzi](https://www.youtube.com/watch?v=n-lSucMphgg)
 
 - Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini. [LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?](https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/), IIRE, Amsterdam, 11 December 2021
 
