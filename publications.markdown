@@ -32,6 +32,8 @@ Public Outreach
 
 Conferences and Lectures
 ------------------
+- Multiplying the Mother Tongue from Within. Multilingual Relationalities in Italian Postcolonial Literature, [European Society for Comparative Literature ESCL 9th Congress](https://www.esclselc2021-sapienza-uniroma1.org/), La Sapienza, Rome, 5-9 September 2022 
+
 - Organiser of the summer school [Space After Borders / Lo spazio oltre i confini](https://www.spaceafterborders.com/en/), Monte Verità, Swiss, 21-22 July 2022, including an [interview with Amara Lakhous by Loredana Polezzi](https://www.youtube.com/watch?v=n-lSucMphgg)
 
 - Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini. [LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?](https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/), IIRE, Amsterdam, 11 December 2021
