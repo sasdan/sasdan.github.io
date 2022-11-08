@@ -21,7 +21,7 @@
 title: Saskia Kroonenberg
 email: mail@saskia.dance
 description: >- # this means to ignore newlines until "baseurl:"
-  Saskia Kroonenberg is a scholar in Italian literature and philosophy.
+  Saskia Kroonenberg is a scholar in Italian studies and philosophy.
   She also dances and writes poetry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.saskia.dance" # the base hostname & protocol for your site, e.g. http://example.com
