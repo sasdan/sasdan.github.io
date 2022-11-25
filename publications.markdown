@@ -5,7 +5,7 @@ permalink: /academic/
 ---
 
 
-Publications
+Academic Publications
 ------------
 
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, Davids, Tine and Karin Willemse, eds. Routledge (peer-reviewed)
@@ -19,7 +19,9 @@ Publications
  
 Public Outreach
 ---------------
-- Kroonenberg, S. (2022) Mentoring in Times of a Pandemic – Some Personal Experiences,	[a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf)
+- Kroonenberg, S. (2022) [De gift der giften: tijd](https://culture-weekly.com/2022/11/22/de-gift-der-giften-tijd/), Culture Weekly, 22 November
+
+- Kroonenberg, S. (2022) [Mentoring in Times of a Pandemic – Some Personal Experiences](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf),	a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27
  
 - Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
 
