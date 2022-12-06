@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Blog for Culture Weekly"
+title:  "New blog for Culture Weekly on time and the academic process"
 date:   2022-11-23 09:32:40 +0200
 ---
 

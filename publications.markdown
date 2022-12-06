@@ -7,6 +7,7 @@ permalink: /academic/
 
 Academic Publications
 ------------
+- Kroonenberg, S. (submitted). Gramsci’s Writing Body. On Embodiment and Subalternity, Interventions: Journal of Postcolonial Studies.
 
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, Davids, Tine and Karin Willemse, eds. Routledge (peer-reviewed)
 
@@ -19,6 +20,8 @@ Academic Publications
  
 Public Outreach
 ---------------
+- Kroonenberg, S. (2022) [Giorgia Meloni, moeder van Italië, Atria, 28 November](https://atria.nl/nieuws-publicaties/vrouwen-in-de-politiek/giorgia-meloni-moeder-van-italie/)
+
 - Kroonenberg, S. (2022) [De gift der giften: tijd](https://culture-weekly.com/2022/11/22/de-gift-der-giften-tijd/), Culture Weekly, 22 November
 
 - Kroonenberg, S. (2022) [Mentoring in Times of a Pandemic – Some Personal Experiences](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf),	a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27
