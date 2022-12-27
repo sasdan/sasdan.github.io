@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speaker on Motherhood and Nation building and LOVA Winterschool 2021"
+title:  "Speaker on Motherhood and Nation building at LOVA Winterschool 2021"
 date:   2021-11-10 09:32:40 +0200
 ---
 
