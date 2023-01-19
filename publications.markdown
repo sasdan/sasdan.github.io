@@ -37,6 +37,8 @@ Conferences and Lectures
 
 - Organiser of the summer school [Space After Borders / Lo spazio oltre i confini](https://www.spaceafterborders.com/en/), Monte Verità, Swiss, 21-22 July 2022, including an [interview with Amara Lakhous by Loredana Polezzi](https://www.youtube.com/watch?v=n-lSucMphgg)
 
+- [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), Universität zu Köln
+
 - Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini. [LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?](https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/), IIRE, Amsterdam, 11 December 2021
 
 - Speaking Like a Plant, Laughing Like a River. Language and Terra in Italian Postcolonial Literature, [Contemporary Literature and the Environmental Imagination](https://www.literature.green/en/conference-2021/), Ghent University, Belgium, 30 November 2021
