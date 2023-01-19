@@ -14,6 +14,8 @@ Publications
 
 - Kroonenberg, S. (2022) [De gift der giften: tijd, Culture Weekly, 22 November](https://culture-weekly.com/2022/11/22/de-gift-der-giften-tijd/)
 
+- Kroonenberg, S. (2022) [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), Universität zu Köln
+
 - Kroonenberg, S. (2022) [Mentoring in Times of a Pandemic – Some Personal Experiences](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf),	a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27
  
 - Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
@@ -36,8 +38,6 @@ Conferences and Lectures
 - Multiplying the Mother Tongue from Within. Multilingual Relationalities in Italian Postcolonial Literature, [European Society for Comparative Literature ESCL 9th Congress](https://www.esclselc2021-sapienza-uniroma1.org/), La Sapienza, Rome, 5-9 September 2022 
 
 - Organiser of the summer school [Space After Borders / Lo spazio oltre i confini](https://www.spaceafterborders.com/en/), Monte Verità, Swiss, 21-22 July 2022, including an [interview with Amara Lakhous by Loredana Polezzi](https://www.youtube.com/watch?v=n-lSucMphgg)
-
-- [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), Universität zu Köln
 
 - Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini. [LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?](https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/), IIRE, Amsterdam, 11 December 2021
 
