@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New blog for Culture Weekly on the gift of time"
+title:  "For my students: new blog on the Gift of Time @Culture Weekly"
 date:   2022-11-23 09:32:40 +0200
 ---
 
