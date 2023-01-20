@@ -6,7 +6,7 @@ permalink: /academic/
 
 Publications
 ------------
-- Kroonenberg, S. (submitted). Gramsci’s Writing Body. On Embodiment and Subalternity, Interventions: Journal of Postcolonial Studies (peer-reviewed)
+- Kroonenberg, S. (forthcoming). Gramsci’s Writing Body. On Embodiment and Subalternity, Interventions: Journal of Postcolonial Studies (peer-reviewed)
 
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, Davids, Tine and Karin Willemse, eds. Routledge (peer-reviewed)
 
