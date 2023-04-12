@@ -6,9 +6,9 @@ permalink: /academic/
 
 Publications
 ------------
-- Kroonenberg, S. (forthcoming). Gramsci’s Writing Body. On Embodiment and Subalternity, Interventions: Journal of Postcolonial Studies (peer-reviewed). 
-
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, Davids, Tine and Karin Willemse, eds. Routledge (peer-reviewed)
+
+- Kroonenberg, S. (2023). Gramsci's Writing Body. On Embodiment and Subaltern Knowledge, Interventions: Journal of Postcolonial Studies, [DOI: 10.1080/1369801X.2023.2191861](https://www.tandfonline.com/doi/full/10.1080/1369801X.2023.2191861).
 
 - Kroonenberg, S. (2022) [Giorgia Meloni, moeder van Italië, Atria, 28 November](https://atria.nl/nieuws-publicaties/vrouwen-in-de-politiek/giorgia-meloni-moeder-van-italie/)
 
@@ -20,13 +20,13 @@ Publications
  
 - Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
 
-- Kroonenberg, S. (2019) [La genealogia della madre: Maria Drago e la ‘lingua della mamma’, Carte Italiane, 12 (1), 35-50](https://escholarship.org/uc/item/2bq1j688#main) (peer-reviewed)
+- Kroonenberg, S. (2019) [La genealogia della madre: Maria Drago e la ‘lingua della mamma’, Carte Italiane, 12 (1), 35-50](https://escholarship.org/uc/item/2bq1j688#main)
 
 - Kroonenberg, S. (2019) [Zorgen, koken, wassen: de oplossingen voor onze ecologische automutilatie, Atria, 8 January](https://atria.nl/nieuws-publicaties/feminisme/feminisme-21ste-eeuw/zorgen-koken-wassen-de-oplossingen-voor-onze-ecologische-automutilatie/)
 
 - Kroonenberg, S. (2018) [De kracht van de verbeelding, Atria, 25 September](https://atria.nl/nieuws-publicaties/feminisme/feminisme-20e-eeuw/de-kracht-van-de-verbeelding/)
 
-- Kroonenberg, S. (2018) [De Italiaanse eenwording al femminile. De maatschappelijke rol van de vrouw in Mazzini’s Doveri dell’uomo en de educatie van de taal, Historica, 41 (1), 7-12](https://www.gendergeschiedenis.nl/index.php/tijdschrift/inhoudsopgave-historica/218-in-historica-winter-2018) (peer-reviewed)
+- Kroonenberg, S. (2018) [De Italiaanse eenwording al femminile. De maatschappelijke rol van de vrouw in Mazzini’s Doveri dell’uomo en de educatie van de taal, Historica, 41 (1), 7-12](https://www.gendergeschiedenis.nl/index.php/tijdschrift/inhoudsopgave-historica/218-in-historica-winter-2018)
 
 - Kroonenberg, S. (2017) [Alessandro Portelli e le memorie delle Fosse Ardeatine, Notiziario della Società di Dante Alighieri Comitato di Utrecht, 27 (2), 9-10](https://issuu.com/danteutrecht/docs/notiziario_dante_utrecht_-_juni_201)
 
