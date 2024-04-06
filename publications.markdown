@@ -35,6 +35,8 @@ Publications
 
 Conferences and Lectures
 ------------------
+- Invited speaker: [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	Società Dante Alighieri, Amsterdam,15/11/2023
+
 - Multiplying the Mother Tongue from Within. Multilingual Relationalities in Italian Postcolonial Literature, [European Society for Comparative Literature ESCL 9th Congress](https://www.esclselc2021-sapienza-uniroma1.org/), La Sapienza, Rome, 5-9 September 2022 
 
 - Organiser of the summer school [Space After Borders / Lo spazio oltre i confini](https://www.spaceafterborders.com/en/), Monte Verità, Swiss, 21-22 July 2022, including an [interview with Amara Lakhous by Loredana Polezzi](https://www.youtube.com/watch?v=n-lSucMphgg)
