@@ -35,7 +35,9 @@ Publications
 
 Conferences and Lectures
 ------------------
-- Invited speaker: [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	Società Dante Alighieri, Amsterdam,15/11/2023
+- Guest lecture: Gramsci and Postcolonial Literature,	PhD course by Dr. Chiara Meta, Dipartimento di Scienze della Formazione Roma Tre, Rome, 21 May 2024
+
+- Invited speaker: [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	Società Dante Alighieri, Amsterdam,15 November 2023
 
 - Multiplying the Mother Tongue from Within. Multilingual Relationalities in Italian Postcolonial Literature, [European Society for Comparative Literature ESCL 9th Congress](https://www.esclselc2021-sapienza-uniroma1.org/), La Sapienza, Rome, 5-9 September 2022 
 
