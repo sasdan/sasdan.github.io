@@ -35,7 +35,7 @@ Publications
 
 Conferences and Lectures
 ------------------
-- Guest lecture: Gramsci and Postcolonial Literature,	PhD course by Dr. Chiara Meta, Dipartimento di Scienze della Formazione Roma Tre, Rome, 21 May 2024
+- Guest lecture: [Gramsci and Postcolonial Literature](https://www.uniroma3.it/articoli/antonio-gramsci-and-postcolonial-literature-453239/),	PhD course by Dr. Chiara Meta, Dipartimento di Scienze della Formazione Roma Tre, Rome, 21 May 2024
 
 - Invited speaker: [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	Società Dante Alighieri, Amsterdam,15 November 2023
 
