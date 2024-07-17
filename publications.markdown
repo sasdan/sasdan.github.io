@@ -4,8 +4,6 @@ title: Publications
 permalink: /academic/
 ---
 
-Publications
-------------
 - Kroonenberg, S. (forthcoming) Rethinking the Mother Tongue. Gramsci, Postcolonial Literature, 	Immanent Grammar, Amsterdam University Press.
 
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Karin Willemse, Routledge.
