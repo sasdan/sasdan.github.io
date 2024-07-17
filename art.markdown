@@ -4,8 +4,6 @@ title: Activities
 permalink: /art/
 ---
 
-Activities
-------------------
 - [Walking, World, Literature](https://auerbach-institut.phil-fak.uni-koeln.de/en/events/past-events/auerbach-lectures/08072024-saskia-kroonenberg), invited speaker at the Erich Auerbach Institute for Advanced Studies, Cologne, 08/07/2024
 
 - [Postcolonial Gramsci(s?) in Transhistorical Perspective](https://sites.google.com/view/sisbiennial2024/abstracts#h.jpc7yd26aa4), invited speaker at the Society for Italian Studies Biennial Conference 2024, Royal Holloway 	University of London, 20/06/2024
