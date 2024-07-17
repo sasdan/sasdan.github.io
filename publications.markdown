@@ -1,26 +1,28 @@
 ---
 layout: page
-title: Academic
+title: Publications
 permalink: /academic/
 ---
 
 Publications
 ------------
-- Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Karin Willemse. Routledge.
+- Kroonenberg, S. (forthcoming) Rethinking the Mother Tongue. Gramsci, Postcolonial Literature, 	Immanent Grammar, Amsterdam University Press.
 
-- Kroonenberg, S. (2023) Gramsci's Writing Body. On Embodiment and Subaltern Knowledge, Interventions: Journal of Postcolonial Studies, [DOI: 10.1080/1369801X.2023.2191861](https://www.tandfonline.com/doi/full/10.1080/1369801X.2023.2191861).
+- Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Karin Willemse, Routledge.
+
+- Kroonenberg, S. (2023) Gramsci's Writing Body. On Embodiment and Subaltern Knowledge, Interventions: Journal of Postcolonial Studies [DOI: 10.1080/1369801X.2023.2191861](https://www.tandfonline.com/doi/full/10.1080/1369801X.2023.2191861).
 
 - Kroonenberg, S. (2022) [Giorgia Meloni, moeder van Italië, Atria, 28 November](https://atria.nl/nieuws-publicaties/vrouwen-in-de-politiek/giorgia-meloni-moeder-van-italie/)
 
 - Kroonenberg, S. (2022) [De gift der giften: tijd, Culture Weekly, 22 November](https://culture-weekly.com/2022/11/22/de-gift-der-giften-tijd/)
 
-- Kroonenberg, S. (2022) [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), Universität zu Köln
+- Kroonenberg, S. (2022) [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), University of Cologne
 
 - Kroonenberg, S. (2022) [Mentoring in Times of a Pandemic – Some Personal Experiences](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf),	a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27
  
 - Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
 
-- Kroonenberg, S. (2019) [La genealogia della madre: Maria Drago e la ‘lingua della mamma’, Carte Italiane, 12 (1), 35-50](https://escholarship.org/uc/item/2bq1j688#main)
+- Kroonenberg, S. (2019) [La genealogia della madre: Maria Drago e la ‘lingua della mamma’, Carte Italiane 12 (1), 35-50](https://escholarship.org/uc/item/2bq1j688#main)
 
 - Kroonenberg, S. (2019) [Zorgen, koken, wassen: de oplossingen voor onze ecologische automutilatie, Atria, 8 January](https://atria.nl/nieuws-publicaties/feminisme/feminisme-21ste-eeuw/zorgen-koken-wassen-de-oplossingen-voor-onze-ecologische-automutilatie/)
 
