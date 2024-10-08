@@ -4,15 +4,15 @@ title: Activities
 permalink: /art/
 ---
 
-- [Walking, World, Literature](https://auerbach-institut.phil-fak.uni-koeln.de/en/events/past-events/auerbach-lectures/08072024-saskia-kroonenberg), invited speaker at the Erich Auerbach Institute for Advanced Studies, Cologne, 08/07/2024
+- [Walking, World, Literature](https://auerbach-institut.phil-fak.uni-koeln.de/en/events/past-events/auerbach-lectures/08072024-saskia-kroonenberg), invited speaker at the Erich Auerbach Institute for Advanced Studies, Cologne, 08 July 2024
 
-- Workshop: Heimat(en)-Welt(en), with Dr. Hanna Zehschnetzler, MA Comparative Literature, University of Cologne, 	05/07/2024
+- Workshop: Heimat(en)-Welt(en), with Dr. Hanna Zehschnetzler, MA Comparative Literature, University of Cologne, 	05 July /2024
 
-- [Postcolonial Gramsci(s?) in Transhistorical Perspective](https://sites.google.com/view/sisbiennial2024/abstracts#h.jpc7yd26aa4), invited speaker at the Society for Italian Studies Biennial Conference 2024, Royal Holloway 	University of London, 20/06/2024
+- [Postcolonial Gramsci(s?) in Transhistorical Perspective](https://sites.google.com/view/sisbiennial2024/abstracts#h.jpc7yd26aa4), invited speaker at the Society for Italian Studies Biennial Conference 2024, Royal Holloway 	University of London, 20 June 2024
 
 - [Gramsci and Postcolonial Literature](https://www.uniroma3.it/articoli/antonio-gramsci-and-postcolonial-literature-453239/),	guest lecture, PhD course by Dr. Chiara Meta, Dipartimento di Scienze della Formazione Roma Tre, Rome, 21 May 2024
 
-- [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	invited speaker at Società Dante Alighieri, Amsterdam,15 November 2023
+- [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	invited speaker at Società Dante Alighieri, Amsterdam, 15 November 2023
 
 - Multiplying the Mother Tongue from Within. Multilingual Relationalities in Italian Postcolonial Literature, conference presentation at [European Society for Comparative Literature ESCL 9th Congress](https://www.esclselc2021-sapienza-uniroma1.org/), La Sapienza, Rome, 5-9 September 2022 
 
@@ -42,7 +42,7 @@ permalink: /art/
 
 - Photography Exhibition: Appearances, [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, January - June 2019.
 
-- Photography Exhibition: Stoelen in kerken (Chairs in Churches), [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, March-August, 2018.
+- Photography Exhibition: Stoelen in kerken (Chairs in Churches), [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, March-August 2018.
   
 - [It’s not Youth, it’s Us. Youth Suicides and Rosi Braidotti’s Posthuman](https://euroacademia.eu/presentation/it%e2%80%99s-not-youth-it%e2%80%99s-us-youth-suicides-and-rosi-braidotti%e2%80%99s-post-human-ethics/), conference presentation at Euroacademia’s 6th International Forum of Critical Studies: “Asking Big Questions Again”, Auditorium of the Agora Cultural Centre, Lucca, Italy, 23-25 November 2017.
   
