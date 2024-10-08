@@ -6,6 +6,8 @@ permalink: /art/
 
 - [Walking, World, Literature](https://auerbach-institut.phil-fak.uni-koeln.de/en/events/past-events/auerbach-lectures/08072024-saskia-kroonenberg), invited speaker at the Erich Auerbach Institute for Advanced Studies, Cologne, 08/07/2024
 
+- Workshop: Heimat(en)-Welt(en), with Dr. Hanna Zehschnetzler, MA Comparative Literature, University of Cologne, 	05/07/2024
+
 - [Postcolonial Gramsci(s?) in Transhistorical Perspective](https://sites.google.com/view/sisbiennial2024/abstracts#h.jpc7yd26aa4), invited speaker at the Society for Italian Studies Biennial Conference 2024, Royal Holloway 	University of London, 20/06/2024
 
 - [Gramsci and Postcolonial Literature](https://www.uniroma3.it/articoli/antonio-gramsci-and-postcolonial-literature-453239/),	guest lecture, PhD course by Dr. Chiara Meta, Dipartimento di Scienze della Formazione Roma Tre, Rome, 21 May 2024
