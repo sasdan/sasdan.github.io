@@ -8,6 +8,8 @@ permalink: /academic/
 
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Karin Willemse, Routledge.
 
+- Kroonenberg, S. (2024) [Vrouw slaat hond, Culture Weekly, 18 December](https://culture-weekly.com/2024/12/18/vrouw-slaat-hond/)
+
 - Kroonenberg, S. (2023) Gramsci's Writing Body. On Embodiment and Subaltern Knowledge, Interventions: Journal of Postcolonial Studies, DOI: [10.1080/1369801X.2023.2191861](https://www.tandfonline.com/doi/full/10.1080/1369801X.2023.2191861).
 
 - Kroonenberg, S. (2022) [Giorgia Meloni, moeder van Italië, Atria, 28 November](https://atria.nl/nieuws-publicaties/vrouwen-in-de-politiek/giorgia-meloni-moeder-van-italie/)
