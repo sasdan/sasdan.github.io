@@ -3,7 +3,7 @@ layout: page
 title: Activities
 permalink: /art/
 ---
-- Mit Gramsci in Wien, speech at the [Antonio Gramsci Dissertation prize](https://wien.arbeiterkammer.at/interessenvertretung/arbeitundsoziales/Antonio_Gramsci_Preis/PreistraegerInnen.html) award ceremony, AK Wien, 07 November 2024
+- Mit Gramsci in Wien, acceptance speech at the [Antonio Gramsci Dissertation prize](https://wien.arbeiterkammer.at/interessenvertretung/arbeitundsoziales/Antonio_Gramsci_Preis/PreistraegerInnen.html) award ceremony, AK Wien, 07 November 2024
 
 - [Walking, World, Literature](https://auerbach-institut.phil-fak.uni-koeln.de/en/events/past-events/auerbach-lectures/08072024-saskia-kroonenberg), invited speaker at the Erich Auerbach Institute for Advanced Studies, Cologne, 08 July 2024
 
