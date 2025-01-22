@@ -30,6 +30,8 @@ permalink: /art/
 
 - Gramsci and Postcolonial Literature in Italy, conference presentation at [ACLA American Comparative Literature Association Annual Meeting](https://www.acla.org/acla-2021), 8-11 April 2021.
 
+- Performance Installation: Aceleratio. The Art of Slowing Down in Times of a Pandemic, Co-author of a poetic text, Pleintheater & NDSM Werf, Amsterdam, 26 February 2021 & May 2021.
+
 - [“The Role of the Body! NOW!”](https://plein-theater.nl/agenda/10134/the-role-of-the-body-now), invited Speaker on Language and Embodiment at Pleintheater (online), Amsterdam, 05 December 2020.
 
 - Antonio Gramsci e gli studi postcoloniali in Italia, guest lecture, University of Zurich, 05 November 2020.
