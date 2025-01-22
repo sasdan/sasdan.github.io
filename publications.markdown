@@ -18,15 +18,13 @@ permalink: /academic/
 
 - Kroonenberg, S. (2022) [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), University of Cologne
 
-- Multimedia Reflection: [No Strings Attached? Finding New Ways of Communicating](https://www.afterprogress.com/no-strings-attached-finding-new-ways-of-communicating), Digital exhibition “After Progress”, Goldsmiths College, London, 14 March 2022.
+- Kroonenberg, S., N. Salloum, & Movementalist (2022) [No Strings Attached? Finding New Ways of Communicating](https://www.afterprogress.com/no-strings-attached-finding-new-ways-of-communicating), Digital exhibition “After Progress”, Goldsmiths College, London, 14 March.
 
-- Poem: Mijn steen en ik, in: Niet vrijwillig zit ik afgezonderd, edited by Wietse Hummel, [Uitgeverij Gopher](https://www.gopher.nl/), 2022.
+- Kroonenberg, S. (2022) Mijn steen en ik, in: Niet vrijwillig zit ik afgezonderd, edited by Wietse Hummel, [Uitgeverij Gopher](https://www.gopher.nl/).
 
 - Kroonenberg, S. (2022) [Mentoring in Times of a Pandemic – Some Personal Experiences](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf),	a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27
 
-- Performance Installation: Aceleratio. The Art of Slowing Down in Times of a Pandemic, Co-author of a poetic text, Pleintheater & NDSM Werf, Amsterdam, 26 February 2021 & May 2021.
-
-- Poetry podcast: [Vruchtwater, De Wereld en de Dingen](https://soundcloud.com/lebowskipublishers/de-wereld-en-de-dingen-5-vruchtwater), with [Emma Zuiderveen](https://emmazuiderveen.nl/) and Tarif El Fasih, January 2021
+- Poetry podcast (2021): [Vruchtwater, De Wereld en de Dingen](https://soundcloud.com/lebowskipublishers/de-wereld-en-de-dingen-5-vruchtwater), with [Emma Zuiderveen](https://emmazuiderveen.nl/) and Tarif El Fasih, January.
  
 - Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
 
