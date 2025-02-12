@@ -6,7 +6,7 @@ permalink: /academic/
 
 - Kroonenberg, S. (forthcoming) Rethinking the Mother Tongue. Gramsci, Postcolonial Literature, 	Immanent Grammar, Amsterdam University Press.
 
-- Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Karin Willemse, Routledge.
+- Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Naomi van Stapele, Routledge.
 
 - Kroonenberg, S. (2024) [Vrouw slaat hond, Culture Weekly, 18 December](https://culture-weekly.com/2024/12/18/vrouw-slaat-hond/)
 
