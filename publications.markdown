@@ -4,11 +4,11 @@ title: Publications
 permalink: /academic/
 ---
 
-- Kroonenberg, S. (forthcoming) Rethinking the Mother Tongue. Gramsci, Postcolonial Literature, 	Immanent Grammar, Amsterdam University Press.
+- Kroonenberg, S. (forthcoming) Rethinking the Mother Tongue with Gramsci. Amsterdam University Press.
 
 - Kroonenberg, S. (forthcoming) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Naomi van Stapele, Routledge.
 
-- Kroonenberg, S. (forthcoming) Antonio Gramsci e Igiaba Scego. Per un'educazione postcoloniale attraverso la letteratura, International Gramsci Journal.
+- Kroonenberg, S. Kroonenberg, S. (2025) Antonio Gramsci and Igiaba Scego. For a Postcolonial Education through Literature, International Gramsci Journal, 6(1). [https://doi.org/10.14276/igj.v6i1.4920](https://doi.org/10.14276/igj.v6i1.4920)
 
 - Kroonenberg, S. (2024) [Vrouw slaat hond, Culture Weekly, 18 December](https://culture-weekly.com/2024/12/18/vrouw-slaat-hond/)
 
