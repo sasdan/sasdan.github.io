@@ -4,4 +4,6 @@ title:  "Investigating inherited memories: my fellowship at inherit. heritage in
 date:   2025-10-01 07:32:40 +0200
 ---
 
+[![Inherit](/assets/inherit-image-website.jpg)](https://www.inherit.hu-berlin.de/)
+
 To find out more about what I will be doing the upcoming months, click [here](https://www.inherit.hu-berlin.de/projects/inherited-memories).
