@@ -20,7 +20,7 @@ permalink: /academic/
 
 - Kroonenberg, S. (2022) [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), University of Cologne
 
-- Kroonenberg, S., N. Salloum, & Movementalist (2022) [No Strings Attached? Finding New Ways of Communicating](https://www.afterprogress.com/no-strings-attached-finding-new-ways-of-communicating), Digital exhibition “After Progress”, Goldsmiths College, London, 14 March.
+- Kroonenberg, S., N. Salloum, & Movementalist (2022) [No Strings Attached? Finding New Ways of Communicating](https://saskia.dance/2022/03/15/no-strings-attached.html), Digital exhibition “After Progress”, Goldsmiths College, London, 14 March.
 
 - Kroonenberg, S. (2022) Mijn steen en ik, in: Niet vrijwillig zit ik afgezonderd, edited by Wietse Hummel, [Uitgeverij Gopher](https://www.gopher.nl/).
 
