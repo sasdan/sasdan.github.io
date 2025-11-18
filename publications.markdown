@@ -4,7 +4,7 @@ title: Publications
 permalink: /academic/
 ---
 
-- Kroonenberg, S. (2026) Rethinking the Mother Tongue with Gramsci. Amsterdam University Press.
+- Kroonenberg, S. (2026) Rethinking the Mother Tongue with Gramsci. Routledge.
 
 - Kroonenberg, S. (2026) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Naomi van Stapele, Routledge.
 
