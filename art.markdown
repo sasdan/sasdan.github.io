@@ -3,7 +3,7 @@ layout: page
 title: Activities
 permalink: /art/
 ---
-- [Il rapporto lingua-terra-corpo da Gramsci alla letteratura postcoloniale](https://fondazionegramsci.org/convegni-e-seminari/antonio-gramsci-e-giuseppe-lombardo-radice-in-dialogo/), convegno su Antonio Gramsci e Lombardo Radice, Dipartimento di Scienze della formazione di Università Roma Tre, 02 December 2025
+- Il rapporto lingua-terra-corpo da Gramsci alla letteratura postcoloniale, [convegno su Antonio Gramsci e Lombardo Radice](https://fondazionegramsci.org/convegni-e-seminari/antonio-gramsci-e-giuseppe-lombardo-radice-in-dialogo/), Dipartimento di Scienze della formazione di Università Roma Tre, 02 December 2025
 
 - Mit Gramsci in Wien, acceptance speech at the [Antonio Gramsci Dissertation prize](https://wien.arbeiterkammer.at/interessenvertretung/arbeitundsoziales/Antonio_Gramsci_Preis/PreistraegerInnen.html) award ceremony, AK Wien, 07 November 2024
 
