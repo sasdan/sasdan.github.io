@@ -8,7 +8,7 @@ permalink: /academic/
 
 - Kroonenberg, S. (accepted for publication) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Naomi van Stapele, Routledge.
 
-- Kroonenberg, S., & M. Puddu. (2026) Written on the Subaltern Body: Gramsci and the Material Politics of Sardinian and Italian Prison Lives, Cultural Studies.
+- Kroonenberg, S., & M. Puddu. (2026) Written on the Subaltern Body: Gramsci and the Material Politics of Sardinian and Italian Prison Lives, Cultural Studies. [https://doi.org/10.1080/09502386.2026.2615901](https://doi.org/10.1080/09502386.2026.2615901)
 
 - Kroonenberg, S. (2025) Antonio Gramsci and Igiaba Scego. For a Postcolonial Education through Literature, International Gramsci Journal, 6(1). [https://doi.org/10.14276/igj.v6i1.4920](https://doi.org/10.14276/igj.v6i1.4920)
 
