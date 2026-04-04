@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming Lecture at inherit: Remembering bodies in/through literature"
+title:  "Upcoming lecture at inherit: Remembering bodies in/through literature"
 date:   2026-04-04 18:08:40 +0200
 ---
 
