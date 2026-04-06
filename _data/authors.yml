@@ -1,0 +1,38 @@
+kroonenberg:
+  family: "Kroonenberg"
+  given: "Saskia"
+  url: "https://www.saskia.dance"
+
+puddu:
+  family: "Puddu"
+  given: "Mauro"
+  url: "https://mauropuddu.com/"
+
+salloum:
+  family: "Salloum"
+  given: "Natalia Helena"
+
+movementalist:
+  literal: "Movementalist"
+  url: "http://www.movementalist.nl/"
+
+zuiderveen:
+  family: "Zuiderveen"
+  given: "Emma"
+  url: "https://emmazuiderveen.nl/"
+
+el-fasih:
+  family: "El Fasih"
+  given: "Tarif"
+
+davids:
+  family: "Davids"
+  given: "Tine"
+
+van-stapele:
+  family: "Van Stapele"
+  given: "Naomi"
+
+hummel:
+  family: "Hummel"
+  given: "Wietse"

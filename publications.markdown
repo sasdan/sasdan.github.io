@@ -4,42 +4,50 @@ title: Publications
 permalink: /academic/
 ---
 
-- Kroonenberg, S. (in press) Rethinking the Mother Tongue in Contemporary Italy: From Gramsci to Postcolonial Literature, Routledge.
+<div class="filter-bar">
+  <span class="filter-btn active" data-filter="all">all</span>
+  <span class="filter-btn" data-filter="book">book</span>
+  <span class="filter-btn" data-filter="article">article</span>
+  <span class="filter-btn" data-filter="public">public outreach</span>
+  <span class="filter-btn" data-filter="creative">creative</span>
+</div>
 
-- Kroonenberg, S. (accepted for publication) Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, in Motherhood, Belonging, Gendered Narration of the Nation State and Beyond, edited by Tine Davids and Naomi van Stapele, Routledge.
+<ul class="item-list">
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for pub in pubs %}
+<li class="item-entry" data-tags="{{ pub.type }}">
+  <div class="item-thumb">
+    {% if pub.image %}
+      <img src="{{ '/assets/' | append: pub.image | relative_url }}" alt="{{ pub.title }}">
+    {% else %}
+      <div class="item-thumb-placeholder">{% if pub.type == 'book' %}&#9783;{% else %}&#9998;{% endif %}</div>
+    {% endif %}
+  </div>
+  <div class="item-info">
+    <div class="item-top">
+      <span class="item-year">{{ pub.status | default: pub.date | date: "%Y" }}</span>
+      <span class="item-label">{{ pub.type }}</span>
+    </div>
+    <p class="item-title"><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></p>
+    <p class="item-meta">{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.publisher %}{{ pub.publisher }}{% endif %}{% if pub.editors %}, ed. {% for eid in pub.editors %}{% include render-name.html id=eid %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}{% if pub.doi %} · <a href="https://doi.org/{{ pub.doi }}" class="item-extlink" target="_blank" rel="noopener" title="Open DOI in new tab"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> DOI</a>{% endif %}</p>
+  </div>
+</li>
+{% endfor %}
+</ul>
 
-- Kroonenberg, S., & M. Puddu. (2026) Written on the Subaltern Body: Gramsci and the Material Politics of Sardinian and Italian Prison Lives, Cultural Studies. [https://doi.org/10.1080/09502386.2026.2615901](https://doi.org/10.1080/09502386.2026.2615901)
-
-- Kroonenberg, S. (2025) Antonio Gramsci and Igiaba Scego. For a Postcolonial Education through Literature, International Gramsci Journal, 6(1). [https://doi.org/10.14276/igj.v6i1.4920](https://doi.org/10.14276/igj.v6i1.4920)
-
-- Kroonenberg, S. (2024) [Vrouw slaat hond, Culture Weekly, 18 December](https://culture-weekly.com/2024/12/18/vrouw-slaat-hond/)
-
-- Kroonenberg, S. (2024) Gramsci's Writing Body. On Embodiment and Subaltern Knowledge, Interventions: Journal of Postcolonial Studies, 26 (5), 626–41. [https://doi.org/10.1080/1369801X.2023.2191861](https://www.tandfonline.com/doi/full/10.1080/1369801X.2023.2191861).
-
-- Kroonenberg, S. (2022) [Giorgia Meloni, moeder van Italië, Atria, 28 November](https://atria.nl/nieuws-publicaties/vrouwen-in-de-politiek/giorgia-meloni-moeder-van-italie/)
-
-- Kroonenberg, S. (2022) [De gift der giften: tijd, Culture Weekly, 22 November](https://culture-weekly.com/2022/11/22/de-gift-der-giften-tijd/)
-
-- Kroonenberg, S. (2022) [Postkoloniale Theorie und die persönliche Inventur](https://komparatistik.uni-koeln.de/sites/faechergruppe6/user_upload/Kroonenberg_Postkoloniale_Theorie_Studienleistungen.pdf), Lehrveranstaltung WiSe 2021-22, [Komparatistik](https://komparatistik.uni-koeln.de/ma-komparatistik-1/lehrveranstaltungen), University of Cologne
-
-- Kroonenberg, S., N. Salloum, & Movementalist (2022) [No Strings Attached? Finding New Ways of Communicating](https://www.after-progress.com/no-strings-attached-finding-new-ways-of-communicating), Digital exhibition “After Progress”, [The Sociological Review](https://journals.sagepub.com/home/sor), London, 14 March.
-
-- Kroonenberg, S. (2022) Mijn steen en ik, in: Niet vrijwillig zit ik afgezonderd, edited by Wietse Hummel, [Uitgeverij Gopher](https://www.gopher.nl/).
-
-- Kroonenberg, S. (2022) [Mentoring in Times of a Pandemic – Some Personal Experiences](https://artes.phil-fak.uni-koeln.de/sites/artesGS/Presse/022_artesJahrbuch_final.pdf),	a.r.t.e.s. Jahrbuch 2021/22, University of Cologne, 26-27
-
-- Poetry podcast (2021): [Vruchtwater, De Wereld en de Dingen](https://soundcloud.com/lebowskipublishers/de-wereld-en-de-dingen-5-vruchtwater), with [Emma Zuiderveen](https://emmazuiderveen.nl/) and Tarif El Fasih, January.
- 
-- Kroonenberg, S. (2020) [Herdenk: Vrouwen en Fascisme, Atria, 4 May](https://atria.nl/nieuws-publicaties/herdenk-vrouwen-en-fascisme/)
-
-- Kroonenberg, S. (2019) [La genealogia della madre: Maria Drago e la ‘lingua della mamma’, Carte Italiane 12 (1), 35-50](https://escholarship.org/uc/item/2bq1j688#main)
-
-- Kroonenberg, S. (2019) [Zorgen, koken, wassen: de oplossingen voor onze ecologische automutilatie, Atria, 8 January](https://atria.nl/nieuws-publicaties/feminisme/feminisme-21ste-eeuw/zorgen-koken-wassen-de-oplossingen-voor-onze-ecologische-automutilatie/)
-
-- Kroonenberg, S. (2018) [De kracht van de verbeelding, Atria, 25 September](https://atria.nl/nieuws-publicaties/feminisme/feminisme-20e-eeuw/de-kracht-van-de-verbeelding/)
-
-- Kroonenberg, S. (2018) [De Italiaanse eenwording al femminile. De maatschappelijke rol van de vrouw in Mazzini’s Doveri dell’uomo en de educatie van de taal, Historica, 41 (1), 7-12](https://www.gendergeschiedenis.nl/index.php/tijdschrift/inhoudsopgave-historica/218-in-historica-winter-2018)
-
-- Kroonenberg, S. (2017) [Alessandro Portelli e le memorie delle Fosse Ardeatine, Notiziario della Società di Dante Alighieri Comitato di Utrecht, 27 (2), 9-10](https://issuu.com/danteutrecht/docs/notiziario_dante_utrecht_-_juni_201)
-
-- Kroonenberg, S. (2016) [Lapt Renzi de grondwet aan zijn laars?, DeFusie, 28 November](http://defusie.net/lapt-renzi-de-grondwet-aan-zijn-laars/)
+<script>
+document.querySelectorAll('.filter-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    var f = btn.getAttribute('data-filter');
+    document.querySelectorAll('.item-entry').forEach(function(item) {
+      if (f === 'all' || item.getAttribute('data-tags') === f) {
+        item.classList.remove('hidden');
+      } else {
+        item.classList.add('hidden');
+      }
+    });
+  });
+});
+</script>

@@ -26,6 +26,27 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.saskia.dance" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sasdan
 
+header_pages:
+  - about.markdown
+  - news.markdown
+  - publications.markdown
+  - art.markdown
+
+collections:
+  publications:
+    output: true
+    sort_by: date
+    permalink: /academic/:slug/
+  activities:
+    output: false
+    sort_by: date
+
+defaults:
+  - scope:
+      type: publications
+    values:
+      layout: publication
+
 # Build settings
 theme: minima
 plugins:
