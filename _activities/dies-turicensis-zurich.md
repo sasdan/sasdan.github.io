@@ -5,5 +5,5 @@ type: academic
 venue: "Dies Turicensis, University of Zurich"
 location: "Zurich"
 role: "presenter"
-external_url: "https://www.rose.uzh.ch/de/forschung/forschungamrose/kongresse/diesromanicusturicensis/diesromanicusXI2021.html"
+external_url: "https://www.rose.uzh.ch/de/forschung/kongresse/diesromanicusturicensis/diesromanicusXI2021.html"
 ---
