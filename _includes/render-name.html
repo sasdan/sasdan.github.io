@@ -1,0 +1,9 @@
+{%- assign person = site.data.authors[include.id] -%}
+{%- if person.literal -%}
+  {%- if person.url -%}<a href="{{ person.url }}">{{ person.literal }}</a>{%- else -%}{{ person.literal }}{%- endif -%}
+{%- elsif person -%}
+  {%- capture name -%}{{ person.family }}, {{ person.given | slice: 0 }}.{%- endcapture -%}
+  {%- if person.url -%}<a href="{{ person.url }}">{{ name }}</a>{%- else -%}{{ name }}{%- endif -%}
+{%- else -%}
+  {{ include.id }}
+{%- endif -%}

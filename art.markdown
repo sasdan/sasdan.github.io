@@ -3,60 +3,53 @@ layout: page
 title: Activities
 permalink: /art/
 ---
-- Antonio Gramsci und die Muttersprache, guest lecture on invitation by Dr. Hanna Zehschnetzler, MA Comparative Literature, University of Cologne, 	29 January 2026
 
-- Il rapporto lingua-terra-corpo da Gramsci alla letteratura postcoloniale, [convegno su Antonio Gramsci e Lombardo Radice](https://fondazionegramsci.org/convegni-e-seminari/antonio-gramsci-e-giuseppe-lombardo-radice-in-dialogo/), Dipartimento di Scienze della formazione di Università Roma Tre, 02 December 2025
+<div class="filter-bar">
+  <span class="filter-btn active" data-filter="all">all</span>
+  <span class="filter-btn" data-filter="academic">academic</span>
+  <span class="filter-btn" data-filter="outreach">public outreach</span>
+  <span class="filter-btn" data-filter="creative">creative</span>
+</div>
 
-- Mit Gramsci in Wien, acceptance speech at the [Antonio Gramsci Dissertation prize](https://wien.arbeiterkammer.at/interessenvertretung/arbeitundsoziales/Antonio_Gramsci_Preis/PreistraegerInnen.html) award ceremony, AK Wien, 07 November 2024
+<ul class="item-list">
+{% assign acts = site.activities | sort: "date" | reverse %}
+{% for act in acts %}
+<li class="item-entry" data-tags="{{ act.type }}">
+  <div class="item-thumb">
+    {% if act.image %}
+      <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title }}">
+    {% else %}
+      <div class="item-thumb-placeholder">&#9998;</div>
+    {% endif %}
+  </div>
+  <div class="item-info">
+    <div class="item-top">
+      <span class="item-year">{{ act.date | date: "%Y" }}</span>
+      <span class="item-label">{% if act.type == 'academic' %}academic{% elsif act.type == 'outreach' %}public outreach{% else %}{{ act.type }}{% endif %}</span>
+      {% if act.external_url %}<a href="{{ act.external_url }}" class="item-extlink" target="_blank" rel="noopener"><i class="icon-external-link"></i> link</a>{% endif %}
+    </div>
+    <p class="item-title">{{ act.title }}</p>
+    {% if act.event or act.venue or act.location %}<p class="item-meta">{{ act.event }}{% if act.event and act.venue %}, {% endif %}{{ act.venue }}{% if act.location and act.event or act.location and act.venue %}, {% endif %}{{ act.location }}</p>{% endif %}
+    {% assign stripped_content = act.content | strip_html | strip %}{% if stripped_content != "" %}<p class="item-meta">{{ stripped_content }}</p>{% endif %}
+    {% if act.role %}<p class="item-meta item-role">{{ act.role }}</p>{% endif %}
+  </div>
+</li>
+{% endfor %}
+</ul>
 
-- [Walking, World, Literature](https://auerbach-institut.phil-fak.uni-koeln.de/en/events/past-events/auerbach-lectures/08072024-saskia-kroonenberg), invited speaker at the Erich Auerbach Institute for Advanced Studies, Cologne, 08 July 2024
-
-- Heimat(en)-Welt(en), workshop with Dr. Hanna Zehschnetzler, MA Comparative Literature, University of Cologne, 	05 July 2024
-
-- [Postcolonial Gramsci(s?) in Transhistorical Perspective](https://sites.google.com/view/sisbiennial2024/abstracts#h.jpc7yd26aa4), invited speaker at the Society for Italian Studies Biennial Conference 2024, Royal Holloway 	University of London, 20 June 2024
-
-- [Gramsci and Postcolonial Literature](https://www.uniroma3.it/articoli/antonio-gramsci-and-postcolonial-literature-453239/),	guest lecture, PhD course by Dr. Chiara Meta, Dipartimento di Scienze della Formazione Roma Tre, Rome, 21 May 2024
-
-- [Mazzini e la mamma](https://www.danteamsterdam.nl/event/lezing-saskia-kroonenberg-mazzini-e-la-mamma/),	invited speaker at Società Dante Alighieri, Amsterdam, 15 November 2023
-
-- Multiplying the Mother Tongue from Within. Multilingual Relationalities in Italian Postcolonial Literature, conference presentation at [European Society for Comparative Literature ESCL 9th Congress](https://www.esclselc2021-sapienza-uniroma1.org/), La Sapienza, Rome, 5-9 September 2022 
-
-- [Space After Borders / Lo spazio oltre i confini](https://www.spaceafterborders.com/en/), organiser of summer school, Monte Verità, Swiss, 21-22 July 2022, including an [interview with Amara Lakhous by Loredana Polezzi](https://www.youtube.com/watch?v=n-lSucMphgg)
-
-- Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini, conference presentation at [LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?](https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/), IIRE, Amsterdam, 11 December 2021
-
-- Speaking Like a Plant, Laughing Like a River. Language and Terra in Italian Postcolonial Literature, conference presentation at [Contemporary Literature and the Environmental Imagination](https://www.literature.green/en/conference-2021/), Ghent University, Belgium, 30 November 2021
-
-- Letteratura «italiana» o «straniera»? Gramsci e l’assenza di una letteratura nazional-popolare in Italia, conference presentation at [Dies Turicensis, University of Zurich](https://www.rose.uzh.ch/de/forschung/forschungamrose/kongresse/diesromanicusturicensis/diesromanicusXI2021.html), 09-10 September 2021.
-
-- Gli studi postcoloniali e “Future”, guest lecture, Utrecht University, 25 May 2021.
-
-- La mancata eredità postcoloniale di Antonio Gramsci, presentation at [MasterLanguage Symposium](https://www.knir.it/nl/evenementen/simposio-masterlanguage/), University of Amsterdam and Koninklijk Nederlands Instituut Rome (KNIR), 23 April 2021.
-
-- Gramsci and Postcolonial Literature in Italy, conference presentation at [ACLA American Comparative Literature Association Annual Meeting](https://www.acla.org/acla-2021), 8-11 April 2021.
-
-- Performance Installation: Aceleratio. The Art of Slowing Down in Times of a Pandemic, Co-author of a poetic text, Pleintheater & NDSM Werf, Amsterdam, 26 February 2021 & May 2021.
-
-- [“The Role of the Body! NOW!”](https://plein-theater.nl/agenda/10134/the-role-of-the-body-now), invited Speaker on Language and Embodiment at Pleintheater (online), Amsterdam, 05 December 2020.
-
-- Antonio Gramsci e gli studi postcoloniali in Italia, guest lecture, University of Zurich, 05 November 2020.
-
-- Forgetting Gramsci, Forms and Forgetting, conference presentation at [AHRC International Conference](https://2020.cambridgeahrcdtpconferences.co.uk/), University of Cambridge, 22 September 2020.
-
-- Italiaans feminisme en Luisa Muraro’s Symbolische orde van de moeder, workshop at Concerning Maternity, University of Humanistic Studies, Utrecht, 31 January 2020.
-
-- A Poetic Intervention on Life Before Birth, Summer School on Philosophy and Psychoanalysis: “Icone del desiderio”, Palazzo Arese Borromeo, Cesano Maderno, Italy, 12-14 June 2019.
-
-- Photography Exhibition: Appearances, [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, January - June 2019.
-
-- Photography Exhibition: Stoelen in kerken (Chairs in Churches), [De Ruimte](https://www.cafederuimte.nl/), Amsterdam, March-August 2018.
-  
-- [It’s not Youth, it’s Us. Youth Suicides and Rosi Braidotti’s Posthuman](https://euroacademia.eu/presentation/it%e2%80%99s-not-youth-it%e2%80%99s-us-youth-suicides-and-rosi-braidotti%e2%80%99s-post-human-ethics/), conference presentation at Euroacademia’s 6th International Forum of Critical Studies: “Asking Big Questions Again”, Auditorium of the Agora Cultural Centre, Lucca, Italy, 23-25 November 2017.
-  
-- Dance Yourself Clean, performance, with Aureline D’Haese, [Amsterdam Hogeschool voor de Kunsten](https://www.ahk.nl/), June 2017.
-
-- Ruimtelijk Inzicht: De Ruimte in Perspectief (Spatial Awareness: Space in Perspective), organiser of interdisciplinary symposium, De Ruimte, Amsterdam, 12 February 2017.
-
-- Più alto del mare e la responsabilità dell’intellettuale impegnato, Organiser & Presenter of International symposium: La memoria culturale della Resistenza, University of Amsterdam, 31 March 2017.
-
-- Toekomst in de Talen (A Future in Languages), Organiser & Presenter of Symposium on the future and purpose of Language Studies, [Humanities Rally](https://humanitiesrally.com/), University of Amsterdam, 25 April 2015.
+<script>
+document.querySelectorAll('.filter-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    var f = btn.getAttribute('data-filter');
+    document.querySelectorAll('.item-entry').forEach(function(item) {
+      if (f === 'all' || item.getAttribute('data-tags') === f) {
+        item.classList.remove('hidden');
+      } else {
+        item.classList.add('hidden');
+      }
+    });
+  });
+});
+</script>

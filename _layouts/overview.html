@@ -1,0 +1,106 @@
+---
+layout: default
+---
+
+<div class="home overview-grid">
+  <div class="overview-main">
+  {{ content }}
+
+  {%- comment -%} Latest news {%- endcomment -%}
+  {%- if site.posts.size > 0 -%}
+  <section class="overview-section">
+    <div class="overview-header">
+      <h2>News</h2>
+      <a href="{{ '/news/' | relative_url }}" class="overview-more">all news &rarr;</a>
+    </div>
+    <ul class="item-list">
+      {%- for post in site.posts limit:3 -%}
+      <li class="item-entry">
+        <div class="item-info">
+          <div class="item-top">
+            <span class="item-year">{{ post.date | date: "%Y" }}</span>
+            <span class="item-date">{{ post.date | date: "%B %-d" }}</span>
+          </div>
+          <p class="item-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </p>
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} Latest publications {%- endcomment -%}
+  {%- assign pubs = site.publications | sort: "date" | reverse -%}
+  {%- if pubs.size > 0 -%}
+  <section class="overview-section">
+    <div class="overview-header">
+      <h2>Publications</h2>
+      <a href="{{ '/academic/' | relative_url }}" class="overview-more">all publications &rarr;</a>
+    </div>
+    <ul class="item-list">
+      {%- for pub in pubs limit:3 -%}
+      <li class="item-entry">
+        <div class="item-thumb">
+          {%- if pub.image -%}
+            <img src="{{ '/assets/' | append: pub.image | relative_url }}" alt="{{ pub.title }}">
+          {%- else -%}
+            <div class="item-thumb-placeholder">{% if pub.type == 'book' %}&#9783;{% else %}&#9998;{% endif %}</div>
+          {%- endif -%}
+        </div>
+        <div class="item-info">
+          <div class="item-top">
+            <span class="item-year">{{ pub.status | default: pub.date | date: "%Y" }}</span>
+            <span class="item-label">{{ pub.type }}</span>
+          </div>
+          <p class="item-title"><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></p>
+          <p class="item-meta">{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.publisher %}{{ pub.publisher }}{% endif %}{% if pub.doi %} · <a href="https://doi.org/{{ pub.doi }}" class="item-extlink" target="_blank" rel="noopener"><i class="icon-external-link"></i> DOI</a>{% endif %}</p>
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+
+  {%- comment -%} Latest activities {%- endcomment -%}
+  {%- assign acts = site.activities | sort: "date" | reverse -%}
+  {%- if acts.size > 0 -%}
+  <section class="overview-section">
+    <div class="overview-header">
+      <h2>Activities</h2>
+      <a href="{{ '/art/' | relative_url }}" class="overview-more">all activities &rarr;</a>
+    </div>
+    <ul class="item-list">
+      {%- for act in acts limit:3 -%}
+      <li class="item-entry">
+        <div class="item-thumb">
+          {%- if act.image -%}
+            <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title }}">
+          {%- else -%}
+            <div class="item-thumb-placeholder">&#9998;</div>
+          {%- endif -%}
+        </div>
+        <div class="item-info">
+          <div class="item-top">
+            <span class="item-year">{{ act.date | date: "%Y" }}</span>
+            <span class="item-label">{% if act.type == 'academic' %}academic{% elsif act.type == 'outreach' %}public outreach{% else %}{{ act.type }}{% endif %}</span>
+          </div>
+          <p class="item-title">{{ act.title }}</p>
+          <p class="item-meta">{% if act.role %}{{ act.role }}{% endif %}{% if act.venue %}, {{ act.venue }}{% endif %}{% if act.location %}, {{ act.location }}{% endif %}</p>
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+  </div>
+
+  <aside class="overview-sidebar">
+    <div class="overview-sidebar-inner">
+      <a href="{{ '/about/' | relative_url }}"><img src="{{ '/assets/picture-saskia-in-the-sun.jpeg' | relative_url }}" alt="{{ site.title }}" class="overview-portrait"></a>
+      <p>{{ site.description }}</p>
+      <p class="overview-contact"><a href="{{ '/about/' | relative_url }}">about &rarr;</a></p>
+    </div>
+  </aside>
+</div>

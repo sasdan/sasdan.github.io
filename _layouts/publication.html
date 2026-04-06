@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+{%- comment -%} Highwire Press meta tags for Google Scholar {%- endcomment -%}
+{%- for aid in page.authors -%}
+  {%- assign a = site.data.authors[aid] -%}
+  {%- if a.literal -%}
+<meta name="citation_author" content="{{ a.literal }}">
+  {%- elsif a -%}
+<meta name="citation_author" content="{{ a.family }}, {{ a.given }}">
+  {%- endif -%}
+{%- endfor -%}
+<meta name="citation_title" content="{{ page.title }}">
+<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+{%- if page.journal -%}<meta name="citation_journal_title" content="{{ page.journal }}">{%- endif -%}
+{%- if page.volume -%}<meta name="citation_volume" content="{{ page.volume }}">{%- endif -%}
+{%- if page.issue -%}<meta name="citation_issue" content="{{ page.issue }}">{%- endif -%}
+{%- if page.doi -%}<meta name="citation_doi" content="{{ page.doi }}">{%- endif -%}
+
+{%- comment -%} Schema.org JSON-LD {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{% if page.type == 'article' %}ScholarlyArticle{% elsif page.type == 'book' %}Book{% else %}CreativeWork{% endif %}",
+  "name": {{ page.title | jsonify }},
+  "author": [{% for aid in page.authors %}{%- assign a = site.data.authors[aid] -%}{"@type": "Person", "name": "{% if a.literal %}{{ a.literal }}{% elsif a %}{{ a.given }} {{ a.family }}{% endif %}"}{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}"
+  {%- if page.journal %}, "isPartOf": {"@type": "Periodical", "name": {{ page.journal | jsonify }}}{% endif %}
+  {%- if page.doi %}, "sameAs": "https://doi.org/{{ page.doi }}"{% endif %}
+  {%- if page.publisher %}, "publisher": {"@type": "Organization", "name": {{ page.publisher | jsonify }}}{% endif %}
+}
+</script>
+
+<div class="wrapper">
+  <article class="pub-detail">
+    <header class="pub-detail-header">
+      <span class="pub-detail-year">{{ page.status | default: page.date | date: "%Y" }}</span>
+      <span class="item-label">{{ page.type }}</span>
+      <h1>{{ page.title }}</h1>
+      <dl class="pub-detail-meta">
+        <dt>{% if page.authors.size > 1 %}Authors{% else %}Author{% endif %}</dt>
+        <dd>{% for aid in page.authors %}{% include render-name.html id=aid %}{% unless forloop.last %}, {% endunless %}{% endfor %}</dd>
+        {%- if page.journal -%}
+          <dt>Published in</dt>
+          <dd><em>{{ page.journal }}</em>
+            {%- if page.volume %}, vol. {{ page.volume }}{% endif %}
+            {%- if page.issue %}({{ page.issue }}){% endif %}
+            {%- if page.pages %}, pp. {{ page.pages }}{% endif %}</dd>
+        {%- endif -%}
+        {%- if page.book_title -%}
+          <dt>Published in</dt>
+          <dd><em>{{ page.book_title }}</em></dd>
+        {%- endif -%}
+        {%- if page.editors -%}
+          <dt>{% if page.editors.size > 1 %}Editors{% else %}Editor{% endif %}</dt>
+          <dd>{% for eid in page.editors %}{% include render-name.html id=eid %}{% unless forloop.last %}, {% endunless %}{% endfor %}</dd>
+        {%- endif -%}
+        {%- if page.publisher -%}
+          <dt>Publisher</dt>
+          <dd>{{ page.publisher }}</dd>
+        {%- endif -%}
+      </dl>
+    </header>
+
+    {%- if page.image -%}
+    <div class="pub-detail-image">
+      <img src="{{ '/assets/' | append: page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    {%- endif -%}
+
+    <div class="pub-detail-links">
+      {%- if page.doi -%}
+        <a href="https://doi.org/{{ page.doi }}" class="pub-link" target="_blank" rel="noopener">
+          <i class="icon-external-link"></i> DOI
+        </a>
+      {%- endif -%}
+      {%- if page.url_external -%}
+        <a href="{{ page.url_external }}" class="pub-link" target="_blank" rel="noopener">
+          <i class="icon-external-link"></i> Read online
+        </a>
+      {%- endif -%}
+    </div>
+
+    {%- if content != "" and content != "\n" -%}
+    <div class="pub-detail-body">
+      {{ content }}
+    </div>
+    {%- endif -%}
+
+    <footer class="pub-detail-footer">
+      <a href="{{ '/academic/' | relative_url }}" class="btn btn-outline">&larr; All publications</a>
+    </footer>
+  </article>
+</div>
