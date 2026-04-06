@@ -5,5 +5,5 @@ type: creative
 venue: "Amsterdam Hogeschool voor de Kunsten"
 location: "Amsterdam"
 role: "performer"
-image: dance_clean.png
+image: dance-yourself-clean.webp
 ---

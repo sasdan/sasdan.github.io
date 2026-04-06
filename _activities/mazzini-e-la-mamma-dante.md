@@ -2,6 +2,7 @@
 title: "Mazzini e la mamma"
 date: 2023-11-15
 type: outreach
+tag: drago
 venue: "Società Dante Alighieri"
 location: "Amsterdam"
 role: "invited speaker"

@@ -2,6 +2,7 @@
 title: "Letteratura «italiana» o «straniera»? Gramsci e l'assenza di una letteratura nazional-popolare in Italia"
 date: 2021-09-09
 type: academic
+tag: gramsci
 event: "Dies Turicensis"
 venue: "University of Zurich"
 location: "Zurich"

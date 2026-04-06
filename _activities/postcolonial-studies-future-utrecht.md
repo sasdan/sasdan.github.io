@@ -5,4 +5,5 @@ type: academic
 venue: "Utrecht University"
 location: "Utrecht"
 role: "guest lecturer"
+image: studi-postcoloniali-future.webp
 ---

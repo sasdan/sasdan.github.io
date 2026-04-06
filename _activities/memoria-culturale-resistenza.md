@@ -6,4 +6,5 @@ event: "La memoria culturale della Resistenza"
 venue: "University of Amsterdam"
 location: "Amsterdam"
 role: "organizer & presenter"
+image: memoria-culturale-resistenza.webp
 ---

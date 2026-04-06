@@ -3,6 +3,7 @@ title: "Antonio Gramsci and Igiaba Scego. For a Postcolonial Education through L
 authors: [kroonenberg]
 date: 2025-07-01
 type: article
+tag: gramsci
 journal: "International Gramsci Journal"
 volume: 6
 issue: 1

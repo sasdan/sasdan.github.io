@@ -2,6 +2,7 @@
 title: "Postcolonial Gramsci(s?) in Transhistorical Perspective"
 date: 2024-06-20
 type: academic
+tag: gramsci
 venue: "Society for Italian Studies Biennial Conference 2024"
 location: "Royal Holloway, University of London"
 role: "invited speaker"

@@ -7,5 +7,6 @@ journal: "Notiziario della Società di Dante Alighieri Comitato di Utrecht"
 volume: 27
 issue: 2
 pages: "9-10"
-url: "https://issuu.com/danteutrecht/docs/notiziario_dante_utrecht_-_juni_201"
+original_url: "https://issuu.com/danteutrecht/docs/notiziario_dante_utrecht_-_juni_201"
+external_url: "https://web.archive.org/web/20210619170049/https://issuu.com/danteutrecht/docs/notiziario_dante_utrecht_-_juni_201"
 ---

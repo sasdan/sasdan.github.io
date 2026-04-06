@@ -6,5 +6,6 @@ event: "Contemporary Literature and the Environmental Imagination"
 venue: "Ghent University"
 location: "Belgium"
 role: "presenter"
+image: speaking-like-a-plant.webp
 external_url: "https://www.literature.green/en/conference-2021/"
 ---

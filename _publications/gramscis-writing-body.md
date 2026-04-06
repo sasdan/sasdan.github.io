@@ -3,6 +3,7 @@ title: "Gramsci's Writing Body. On Embodiment and Subaltern Knowledge"
 authors: [kroonenberg]
 date: 2024-04-12
 type: article
+tag: gramsci
 journal: "Interventions: Journal of Postcolonial Studies"
 volume: 26
 issue: 5

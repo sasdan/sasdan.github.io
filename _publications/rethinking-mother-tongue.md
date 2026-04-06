@@ -5,6 +5,7 @@ date: 2026-04-06
 status: "in press"
 type: book
 publisher: Routledge
+image: rethinking-mother-tongue-cover.webp
 ---
 
 Monograph on the notion of the mother tongue in contemporary Italy.

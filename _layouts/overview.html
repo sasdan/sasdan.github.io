@@ -44,7 +44,9 @@ layout: default
       <li class="item-entry">
         <div class="item-thumb">
           {%- if pub.image -%}
-            <img src="{{ '/assets/' | append: pub.image | relative_url }}" alt="{{ pub.title }}">
+            <img src="{{ '/assets/' | append: pub.image | relative_url }}" alt="{{ pub.title | escape }}">
+          {%- elsif pub.tag and site.data.tags[pub.tag].image -%}
+            <img src="{{ '/assets/' | append: site.data.tags[pub.tag].image | relative_url }}" alt="{{ site.data.tags[pub.tag].label | escape }}">
           {%- else -%}
             <div class="item-thumb-placeholder">{% if pub.type == 'book' %}&#9783;{% else %}&#9998;{% endif %}</div>
           {%- endif -%}
@@ -52,10 +54,10 @@ layout: default
         <div class="item-info">
           <div class="item-top">
             <span class="item-year">{{ pub.status | default: pub.date | date: "%Y" }}</span>
-            <span class="item-label">{{ pub.type }}</span>
+            <span class="item-label">{% if pub.type == 'public' %}public outreach{% else %}{{ pub.type }}{% endif %}</span>
           </div>
           <p class="item-title"><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></p>
-          <p class="item-meta">{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.publisher %}{{ pub.publisher }}{% endif %}{% if pub.doi %} · <a href="https://doi.org/{{ pub.doi }}" class="item-extlink" target="_blank" rel="noopener"><i class="icon-external-link"></i> DOI</a>{% endif %}</p>
+          <p class="item-meta">{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.publisher %}{{ pub.publisher }}{% endif %}{% if pub.doi %} · <a href="https://doi.org/{{ pub.doi }}" class="item-extlink" target="_blank"><i class="icon-external-link"></i> DOI</a>{% endif %}</p>
         </div>
       </li>
       {%- endfor -%}
@@ -76,7 +78,9 @@ layout: default
       <li class="item-entry">
         <div class="item-thumb">
           {%- if act.image -%}
-            <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title }}">
+            <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title | escape }}">
+          {%- elsif act.tag and site.data.tags[act.tag].image -%}
+            <img src="{{ '/assets/' | append: site.data.tags[act.tag].image | relative_url }}" alt="{{ site.data.tags[act.tag].label | escape }}">
           {%- else -%}
             <div class="item-thumb-placeholder">&#9998;</div>
           {%- endif -%}

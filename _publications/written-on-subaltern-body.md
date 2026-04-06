@@ -3,6 +3,7 @@ title: "Written on the Subaltern Body: Gramsci and the Material Politics of Sard
 authors: [kroonenberg, puddu]
 date: 2026-02-11
 type: article
+tag: gramsci
 journal: "Cultural Studies"
 doi: "10.1080/09502386.2026.2615901"
 image: cover-image-cultural-studies-2026.webp

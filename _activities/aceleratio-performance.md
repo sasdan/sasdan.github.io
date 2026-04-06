@@ -5,4 +5,5 @@ type: creative
 venue: "Pleintheater & NDSM Werf"
 location: "Amsterdam"
 role: "co-author"
+image: aceleratio.webp
 ---

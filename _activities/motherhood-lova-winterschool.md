@@ -2,6 +2,7 @@
 title: "Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini"
 date: 2021-12-11
 type: academic
+tag: drago
 event: "LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?"
 venue: "IIRE"
 location: "Amsterdam"

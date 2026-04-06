@@ -5,4 +5,5 @@ type: academic
 venue: "University of Cologne"
 location: "Cologne"
 role: "workshop"
+image: heimaten-welten.webp
 ---

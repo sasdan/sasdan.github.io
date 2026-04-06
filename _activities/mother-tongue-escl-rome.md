@@ -5,5 +5,6 @@ type: academic
 venue: "European Society for Comparative Literature ESCL 9th Congress"
 location: "La Sapienza, Rome"
 role: "presenter"
+image: mother-tongue-escl.webp
 external_url: "https://escl-selc.eu/biennial-congress/rome-2022/"
 ---
