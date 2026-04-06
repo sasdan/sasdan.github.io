@@ -73,8 +73,9 @@ layout: default
     </header>
 
     {%- if page.image and page.hide_image != true -%}
+    {%- assign cr = site.data.authors[page.image_copyright] -%}
     <div class="pub-detail-image">
-      <img src="{{ '/assets/' | append: page.image | relative_url }}" alt="{{ page.title }}">
+      <img src="{{ '/assets/' | append: page.image | relative_url }}" alt="{{ page.title }}"{% if cr %} title="© {% if cr.literal %}{{ cr.literal }}{% else %}{{ cr.given }} {{ cr.family }}{% endif %}"{% endif %}>
     </div>
     {%- endif -%}
 

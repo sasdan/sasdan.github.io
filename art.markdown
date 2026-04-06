@@ -17,7 +17,8 @@ permalink: /art/
 <li class="item-entry" data-tags="{{ act.type }}">
   <div class="item-thumb">
     {% if act.image %}
-      <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title | escape }}">
+      {% assign cr = site.data.authors[act.image_copyright] %}{% assign cr_name = nil %}{% if cr.literal %}{% assign cr_name = cr.literal %}{% elsif cr %}{% capture cr_name %}© {{ cr.given }} {{ cr.family }}{% endcapture %}{% endif %}
+      <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title | escape }}"{% if cr_name %} title="{{ cr_name }}"{% endif %}>
     {% elsif act.tag and site.data.tags[act.tag].image %}
       <img src="{{ '/assets/' | append: site.data.tags[act.tag].image | relative_url }}" alt="{{ site.data.tags[act.tag].label | escape }}">
     {% else %}

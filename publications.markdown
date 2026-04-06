@@ -18,7 +18,8 @@ permalink: /academic/
 <li class="item-entry" data-tags="{{ pub.type }}">
   <div class="item-thumb">
     {% if pub.image %}
-      <img src="{{ '/assets/' | append: pub.image | relative_url }}" alt="{{ pub.title | escape }}">
+      {% assign cr = site.data.authors[pub.image_copyright] %}{% assign cr_name = nil %}{% if cr.literal %}{% assign cr_name = cr.literal %}{% elsif cr %}{% capture cr_name %}© {{ cr.given }} {{ cr.family }}{% endcapture %}{% endif %}
+      <img src="{{ '/assets/' | append: pub.image | relative_url }}" alt="{{ pub.title | escape }}"{% if cr_name %} title="{{ cr_name }}"{% endif %}>
     {% elsif pub.tag and site.data.tags[pub.tag].image %}
       <img src="{{ '/assets/' | append: site.data.tags[pub.tag].image | relative_url }}" alt="{{ site.data.tags[pub.tag].label }}">
     {% else %}
