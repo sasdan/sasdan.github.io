@@ -2,7 +2,7 @@
 title: "Alessandro Portelli e le memorie delle Fosse Ardeatine"
 authors: [kroonenberg]
 date: 2017-06-01
-type: outreach
+type: article
 journal: "Notiziario della Società di Dante Alighieri Comitato di Utrecht"
 volume: 27
 issue: 2
