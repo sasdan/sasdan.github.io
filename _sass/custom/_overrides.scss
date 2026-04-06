@@ -59,6 +59,23 @@
   color: #888;
 }
 
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  a {
+    color: #888;
+    text-decoration: none;
+    &:hover { color: #444; }
+  }
+
+  .svg-icon {
+    vertical-align: text-bottom;
+    fill: #888;
+  }
+}
+
 // Overview homepage layout
 .overview-section {
   margin-bottom: 2.5em;
@@ -130,10 +147,14 @@
   margin-bottom: 1em;
 }
 
-.overview-contact a {
-  color: #888;
-  text-decoration: none;
-  font-size: 0.95em;
+.overview-contact {
+  text-align: right;
 
-  &:hover { color: #444; }
+  a {
+    font-size: 0.85em;
+    color: #888;
+    text-decoration: none;
+
+    &:hover { color: #444; }
+  }
 }

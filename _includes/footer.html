@@ -1,17 +1,11 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
-      </div>
-      <div class="footer-col footer-col-2">
-        {%- if site.github_username -%}
-        <a href="https://github.com/{{ site.github_username }}">GitHub</a>
-        {%- endif -%}
-      </div>
-      <div class="footer-col footer-col-3">
-        &copy; {{ site.title }}
-      </div>
+    <div class="footer-row">
+      <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      {%- if site.github_username -%}
+      <a href="https://github.com/{{ site.github_username }}"><svg class="svg-icon" width="16" height="16"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> {{ site.github_username }}</a>
+      {%- endif -%}
+      <span>{{ site.title }}</span>
     </div>
   </div>
 </footer>
