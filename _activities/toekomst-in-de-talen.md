@@ -5,5 +5,4 @@ type: outreach
 venue: "Humanities Rally"
 location: "University of Amsterdam"
 role: "organizer & presenter"
-external_url: "https://humanitiesrally.com/"
 ---

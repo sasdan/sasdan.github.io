@@ -1,7 +1,7 @@
 ---
 title: "The Role of the Body! NOW!"
 date: 2020-12-05
-type: academic
+type: creative
 venue: "Pleintheater"
 location: "Amsterdam (online)"
 role: "invited speaker"
