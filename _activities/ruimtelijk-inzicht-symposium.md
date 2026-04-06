@@ -6,4 +6,5 @@ venue: "De Ruimte"
 location: "Amsterdam"
 role: "organizer"
 image: ruimtelijk-inzicht.webp
+image_copyright: sandbrink
 ---

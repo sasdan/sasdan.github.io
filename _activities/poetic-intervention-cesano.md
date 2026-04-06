@@ -7,4 +7,5 @@ venue: "Palazzo Arese Borromeo, Università Vita-Salute San Raffaele"
 location: "Cesano Maderno, Italy"
 role: "presenter"
 image: kracht-van-verbeelding.webp
+image_copyright: broos
 ---
