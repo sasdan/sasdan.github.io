@@ -9,3 +9,9 @@
     </div>
   </div>
 </footer>
+<script>
+document.querySelectorAll('a[href^="http"]').forEach(function(a) {
+  if (!a.hostname || a.hostname === location.hostname) return;
+  a.setAttribute('target', '_blank');
+});
+</script>
