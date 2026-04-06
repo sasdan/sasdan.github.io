@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Portrait of Saskia Kroonenberg](/assets/picture-saskia-in-the-sun.jpeg)
+<img src="/assets/picture-saskia-in-the-sun.jpeg" alt="Portrait of Saskia Kroonenberg" class="portrait-float">
 
 Saskia Kroonenberg is a visiting fellow at [inherit. heritage in transformation](https://www.inherit.hu-berlin.de/fellows/saskia-kroonenberg)  (HU Berlin) and a lecturer in [cultural studies at Radboud University](https://www.ru.nl/en/people/kroonenberg-s) in the Netherlands. She was previously a Marie-Curie fellow at [the a.r.t.e.s. Graduate School for the Humanities](https://artes.phil-fak.uni-koeln.de/41302.html) (University of Cologne), where she wrote a PhD on Antonio Gramsci's political philosophy, postcolonial literature and new materialism. It was graded summa cum laude and won the [Antonio Gramsci dissertation prize 2023](https://wien.arbeiterkammer.at/interessenvertretung/arbeitundsoziales/Antonio_Gramsci_Preis/index.html).
 

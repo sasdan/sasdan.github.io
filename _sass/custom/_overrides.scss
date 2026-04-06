@@ -14,8 +14,8 @@
   letter-spacing: 0;
 }
 
-// About page: float portrait beside text on desktop, above text on mobile
-.post-content img[alt="Portrait of Saskia Kroonenberg"] {
+// Float portrait beside text on desktop, above text on mobile
+.portrait-float {
   float: right;
   max-width: 260px;
   margin: 0 0 1em 1.5em;
