@@ -1,0 +1,15 @@
+routledge:
+  name: "Routledge"
+  url: "https://www.routledge.com"
+
+gopher:
+  name: "Uitgeverij Gopher"
+  url: "https://www.gopher.nl/"
+
+lebowski:
+  name: "Lebowski Publishers"
+  url: "https://www.lebowskipublishers.nl/"
+
+uni-cologne:
+  name: "University of Cologne"
+  url: "https://www.uni-koeln.de/"

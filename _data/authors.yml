@@ -36,3 +36,7 @@ van-stapele:
 hummel:
   family: "Hummel"
   given: "Wietse"
+
+koll:
+  family: "Koll"
+  given: "Andrea"

@@ -4,7 +4,7 @@ authors: [kroonenberg]
 date: 2026-04-06
 status: "in press"
 type: book
-publisher: Routledge
+publisher: routledge
 image: rethinking-mother-tongue-cover.webp
 ---
 
