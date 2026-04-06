@@ -5,4 +5,5 @@ type: creative
 venue: "De Ruimte"
 location: "Amsterdam"
 role: "photographer"
+image: appearances.webp
 ---

@@ -17,7 +17,9 @@ permalink: /art/
 <li class="item-entry" data-tags="{{ act.type }}">
   <div class="item-thumb">
     {% if act.image %}
-      <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title }}">
+      <img src="{{ '/assets/' | append: act.image | relative_url }}" alt="{{ act.title | escape }}">
+    {% elsif act.tag and site.data.tags[act.tag].image %}
+      <img src="{{ '/assets/' | append: site.data.tags[act.tag].image | relative_url }}" alt="{{ site.data.tags[act.tag].label | escape }}">
     {% else %}
       <div class="item-thumb-placeholder">&#9998;</div>
     {% endif %}
@@ -26,7 +28,7 @@ permalink: /art/
     <div class="item-top">
       <span class="item-year">{{ act.date | date: "%Y" }}</span>
       <span class="item-label">{% if act.type == 'academic' %}academic{% elsif act.type == 'outreach' %}public outreach{% else %}{{ act.type }}{% endif %}</span>
-      {% if act.external_url %}<a href="{{ act.external_url }}" class="item-extlink" target="_blank" rel="noopener"><i class="icon-external-link"></i> link</a>{% endif %}
+      {% if act.external_url %}<a href="{{ act.external_url }}" class="item-extlink" target="_blank"><i class="icon-external-link"></i> link</a>{% endif %}
     </div>
     <p class="item-title">{{ act.title }}</p>
     {% if act.event or act.venue or act.location %}<p class="item-meta">{{ act.event }}{% if act.event and act.venue %}, {% endif %}{{ act.venue }}{% if act.location and act.event or act.location and act.venue %}, {% endif %}{{ act.location }}</p>{% endif %}

@@ -5,5 +5,6 @@ type: creative
 venue: "Pleintheater"
 location: "Amsterdam (online)"
 role: "invited speaker"
+image: role-of-the-body.webp
 external_url: "https://plein-theater.nl/agenda/10134/the-role-of-the-body-now"
 ---

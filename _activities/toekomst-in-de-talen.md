@@ -5,4 +5,5 @@ type: outreach
 venue: "Humanities Rally"
 location: "University of Amsterdam"
 role: "organizer & presenter"
+image: toekomst-in-de-talen.webp
 ---

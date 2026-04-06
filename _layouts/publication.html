@@ -63,7 +63,7 @@ layout: default
       </dl>
     </header>
 
-    {%- if page.image -%}
+    {%- if page.image and page.hide_image != true -%}
     <div class="pub-detail-image">
       <img src="{{ '/assets/' | append: page.image | relative_url }}" alt="{{ page.title }}">
     </div>
@@ -71,21 +71,48 @@ layout: default
 
     <div class="pub-detail-links">
       {%- if page.doi -%}
-        <a href="https://doi.org/{{ page.doi }}" class="pub-link" target="_blank" rel="noopener">
+        <a href="https://doi.org/{{ page.doi }}" class="pub-link" target="_blank" referrerpolicy="no-referrer-when-downgrade">
           <i class="icon-external-link"></i> DOI
         </a>
       {%- endif -%}
-      {%- if page.url_external -%}
-        <a href="{{ page.url_external }}" class="pub-link" target="_blank" rel="noopener">
-          <i class="icon-external-link"></i> Read online
-        </a>
-      {%- endif -%}
     </div>
+
+    {%- assign preview_file = nil -%}
+    {%- assign preview_url = page.external_url -%}
+    {%- if page.external_url and site.data.previews[page.external_url] -%}
+      {%- assign preview_file = site.data.previews[page.external_url] -%}
+    {%- elsif page.doi -%}
+      {%- assign doi_url = "https://doi.org/" | append: page.doi -%}
+      {%- if site.data.previews[doi_url] -%}
+        {%- assign preview_file = site.data.previews[doi_url] -%}
+        {%- assign preview_url = doi_url -%}
+      {%- endif -%}
+    {%- endif -%}
 
     {%- if content != "" and content != "\n" -%}
     <div class="pub-detail-body">
       {{ content }}
     </div>
+    {%- endif -%}
+
+    {%- if preview_file -%}
+      {%- assign display_url = page.original_url | default: preview_url -%}
+      {%- assign favicon_domain = display_url | split: '//' | last | split: '/' | first -%}
+      <div class="preview-card">
+        <div class="preview-card-header">
+          <span class="preview-card-url"><img src="https://www.google.com/s2/favicons?sz=16&domain={{ favicon_domain }}" alt="" class="preview-favicon"> <a href="{{ preview_url }}" target="_blank">{{ display_url }}</a></span>
+          <a href="{{ preview_url }}" target="_blank" class="preview-card-read"><i class="icon-external-link"></i> Read online</a>
+        </div>
+        <a href="{{ preview_url }}" target="_blank" class="preview-card-body">
+          <img src="{{ '/assets/previews/' | append: preview_file | relative_url }}" alt="Preview of {{ page.title }}">
+        </a>
+      </div>
+    {%- elsif page.external_url -%}
+      <div class="pub-detail-links">
+        <a href="{{ page.external_url }}" class="pub-link" target="_blank">
+          <i class="icon-external-link"></i> Read online
+        </a>
+      </div>
     {%- endif -%}
 
     <footer class="pub-detail-footer">

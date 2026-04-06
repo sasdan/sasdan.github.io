@@ -5,4 +5,5 @@ type: outreach
 venue: "De Ruimte"
 location: "Amsterdam"
 role: "organizer"
+image: ruimtelijk-inzicht.webp
 ---

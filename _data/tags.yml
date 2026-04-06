@@ -1,0 +1,11 @@
+gramsci:
+  label: "Gramsci"
+  image: gramsci-portrait.webp
+
+drago:
+  label: "Maria Drago"
+  image: maria-drago-mazzini.webp
+
+uni-cologne:
+  label: "University of Cologne"
+  image: uni-cologne.webp
