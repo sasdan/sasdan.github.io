@@ -140,6 +140,10 @@
   em { font-style: italic; }
 }
 
+.item-role {
+  text-transform: capitalize;
+}
+
 // ==================
 // External link icon (DOI, link)
 // ==================
@@ -147,6 +151,7 @@
   display: inline-flex;
   align-items: center;
   gap: 0.25em;
+  font-size: 0.7em;
   font-weight: 500;
   color: #888;
   text-decoration: none;
