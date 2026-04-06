@@ -1,0 +1,85 @@
+// Publication detail page
+.pub-detail {
+  padding: 1em 0 3em;
+  max-width: 780px;
+}
+
+.pub-detail-header {
+  margin-bottom: 1.5em;
+
+  h1 {
+    margin-top: 0.3em;
+    font-size: 1.8em;
+  }
+}
+
+.pub-detail-year {
+  color: #888;
+  font-size: 0.9em;
+  margin-right: 0.4em;
+}
+
+.pub-detail-meta {
+  margin: 1.2em 0 0;
+  display: grid;
+  grid-template-columns: 8em 1fr;
+  border-top: 1px solid #eee;
+
+  dt {
+    font-size: 0.8em;
+    color: #999;
+    padding: 0.6em 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  dd {
+    color: #444;
+    padding: 0.6em 0;
+    margin: 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  em { font-style: italic; }
+}
+
+.pub-detail-image {
+  margin: 1.5em 0;
+
+  img {
+    max-width: 400px;
+    border-radius: 6px;
+  }
+}
+
+.pub-detail-links {
+  display: flex;
+  gap: 0.6em;
+  margin: 1.5em 0;
+}
+
+.pub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.4em 1em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.85em;
+  font-weight: 500;
+  color: #444;
+  text-decoration: none;
+  transition: all 0.15s ease;
+
+  &:hover { border-color: #888; color: #222; }
+}
+
+.pub-detail-body {
+  margin: 2em 0;
+  line-height: 1.7;
+}
+
+.pub-detail-footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid #eee;
+}
