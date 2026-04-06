@@ -1,7 +1,7 @@
 ---
 title: "Mazzini e la mamma"
 date: 2023-11-15
-type: academic
+type: outreach
 venue: "Società Dante Alighieri"
 location: "Amsterdam"
 role: "invited speaker"
