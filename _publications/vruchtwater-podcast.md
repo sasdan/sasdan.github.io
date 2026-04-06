@@ -2,10 +2,12 @@
 title: "Vruchtwater"
 series: "De Wereld en de Dingen"
 authors: [kroonenberg, zuiderveen, el-fasih]
+publisher: lebowski
 date: 2021-01-30
 type: creative
 external_url: "https://soundcloud.com/lebowskipublishers/de-wereld-en-de-dingen-5-vruchtwater"
 image: vruchtwater-podcast.webp
+image_copyright: koll
 hide_image: true
 ---
 

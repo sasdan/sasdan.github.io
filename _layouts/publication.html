@@ -28,7 +28,7 @@ layout: default
   "datePublished": "{{ page.date | date: '%Y-%m-%d' }}"
   {%- if page.journal %}, "isPartOf": {"@type": "Periodical", "name": {{ page.journal | jsonify }}}{% endif %}
   {%- if page.doi %}, "sameAs": "https://doi.org/{{ page.doi }}"{% endif %}
-  {%- if page.publisher %}, "publisher": {"@type": "Organization", "name": {{ page.publisher | jsonify }}}{% endif %}
+  {%- if page.publisher %}{%- assign pub_info = site.data.publishers[page.publisher] -%}, "publisher": {"@type": "Organization", "name": {{ pub_info.name | default: page.publisher | jsonify }}}{% endif %}
 }
 </script>
 
@@ -57,8 +57,17 @@ layout: default
           <dd>{% for eid in page.editors %}{% include render-name.html id=eid %}{% unless forloop.last %}, {% endunless %}{% endfor %}</dd>
         {%- endif -%}
         {%- if page.publisher -%}
+          {%- assign pub_data = site.data.publishers[page.publisher] -%}
           <dt>Publisher</dt>
-          <dd>{{ page.publisher }}</dd>
+          <dd>{% if pub_data.url %}<a href="{{ pub_data.url }}">{{ pub_data.name }}</a>{% elsif pub_data %}{{ pub_data.name }}{% else %}{{ page.publisher }}{% endif %}</dd>
+        {%- endif -%}
+        {%- if page.series -%}
+          <dt>Series</dt>
+          <dd>{{ page.series }}</dd>
+        {%- endif -%}
+        {%- if page.image_copyright -%}
+          <dt>Image</dt>
+          <dd>&copy; {% include render-name.html id=page.image_copyright %}</dd>
         {%- endif -%}
       </dl>
     </header>
