@@ -29,7 +29,7 @@ permalink: /academic/
       <span class="item-label">{{ pub.type }}</span>
     </div>
     <p class="item-title"><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></p>
-    <p class="item-meta">{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.publisher %}{{ pub.publisher }}{% endif %}{% if pub.editors %}, ed. {% for eid in pub.editors %}{% include render-name.html id=eid %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}{% if pub.doi %} · <a href="https://doi.org/{{ pub.doi }}" class="item-extlink" target="_blank" rel="noopener" title="Open DOI in new tab"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> DOI</a>{% endif %}</p>
+    <p class="item-meta">{% if pub.journal %}<em>{{ pub.journal }}</em>{% endif %}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.issue %}({{ pub.issue }}){% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}{% if pub.publisher %}{{ pub.publisher }}{% endif %}{% if pub.editors %}, ed. {% for eid in pub.editors %}{% include render-name.html id=eid %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}{% if pub.doi %} · <a href="https://doi.org/{{ pub.doi }}" class="item-extlink" target="_blank" rel="noopener" title="Open DOI in new tab"><i class="icon-external-link"></i> DOI</a>{% endif %}</p>
   </div>
 </li>
 {% endfor %}

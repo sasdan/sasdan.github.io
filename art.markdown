@@ -26,7 +26,7 @@ permalink: /art/
     <div class="item-top">
       <span class="item-year">{{ act.date | date: "%Y" }}</span>
       <span class="item-label">{% if act.type == 'academic' %}academic{% elsif act.type == 'outreach' %}public outreach{% else %}{{ act.type }}{% endif %}</span>
-      {% if act.external_url %}<a href="{{ act.external_url }}" class="item-extlink" target="_blank" rel="noopener"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> link</a>{% endif %}
+      {% if act.external_url %}<a href="{{ act.external_url }}" class="item-extlink" target="_blank" rel="noopener"><i class="icon-external-link"></i> link</a>{% endif %}
     </div>
     <p class="item-title">{{ act.title }}</p>
     {% if act.event or act.venue or act.location %}<p class="item-meta">{{ act.event }}{% if act.event and act.venue %}, {% endif %}{{ act.venue }}{% if act.location and act.event or act.location and act.venue %}, {% endif %}{{ act.location }}</p>{% endif %}
