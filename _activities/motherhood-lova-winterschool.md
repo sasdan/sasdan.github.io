@@ -6,6 +6,6 @@ event: "LOVA Winterschool 2021: Motherhood: the unfinished business of feminism?
 venue: "IIRE"
 location: "Amsterdam"
 role: "presenter"
-external_url: "https://www.ru.nl/caos/nieuws/activiteitenkalender/agenda/motherhood-the-unfinished-business-feminism/"
+external_url: "https://lovanetwork.org/wp-content/uploads/2024/01/LOVA-Journal-42-LR-Motherhood.pdf"
 image: LovaWinterSchool2021_Poster.jpg
 ---
