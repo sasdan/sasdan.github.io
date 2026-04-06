@@ -5,5 +5,5 @@ type: academic
 event: "Concerning Maternity"
 venue: "University of Humanistic Studies"
 location: "Utrecht"
-role: "workshop"
+role: "presenter"
 ---
