@@ -47,6 +47,9 @@ defaults:
     values:
       layout: publication
 
+plausible_url: ""
+plausible_domain: ""
+
 # Build settings
 theme: minima
 plugins:
