@@ -1,7 +1,7 @@
 ---
 title: "Space After Borders / Lo spazio oltre i confini"
 date: 2022-07-21
-type: outreach
+type: academic
 venue: "Monte Verità"
 location: "Switzerland"
 role: "organizer"
