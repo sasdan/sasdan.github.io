@@ -4,6 +4,6 @@ date: 2024-07-05
 type: academic
 venue: "University of Cologne"
 location: "Cologne"
-role: "workshop"
+role: "workshop organizer"
 image: heimaten-welten.webp
 ---
