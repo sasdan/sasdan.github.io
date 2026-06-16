@@ -2,7 +2,7 @@
 title: "Motherhood and Italian Nation Building: On the Correspondence between Maria Drago and Giuseppe Mazzini"
 authors: [kroonenberg]
 date: 2026-04-05
-status: "accepted"
+status: "in press"
 type: book
 publisher: routledge
 editors: [davids, van-stapele]
