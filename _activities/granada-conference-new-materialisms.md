@@ -4,7 +4,7 @@ date: 2026-06-01
 type: academic
 venue: "University of Granada"
 location: "Granada"
-role: "conference presentation"
+role: "presenter"
 image: granada-conference-image.png
 external_url: "https://proyectos.ugr.es/reslab/informacion/actividades/13thconference"
 ---
