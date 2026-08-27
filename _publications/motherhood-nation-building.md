@@ -3,7 +3,7 @@ title: "Motherhood and Italian Nation Building: On the Correspondence between Ma
 authors: [kroonenberg]
 date: 2026-04-05
 status: "in press"
-type: book
+type: book chapter
 publisher: routledge
 editors: [davids, van-stapele]
 book_title: "Motherhood, Belonging, Gendered Narration of the Nation State and Beyond"
