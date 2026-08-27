@@ -1,11 +1,11 @@
 ---
 title: "Rethinking the Mother Tongue in Contemporary Italy: From Gramsci to Postcolonial Literature"
 authors: [kroonenberg]
-date: 2026-04-06
-status: "in press"
+date: 2026-08-28
 type: book
 publisher: routledge
-image: rethinking-mother-tongue-cover.webp
+doi: "https://doi.org/10.4324/9781003702986"
+image: cover-book-rethinking-mother-tongue.jpeg
 ---
 
 Monograph on the notion of the mother tongue in contemporary Italy.
