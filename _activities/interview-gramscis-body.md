@@ -1,7 +1,7 @@
 ---
 title: "Interview at Everything is Ideology"
 date: 2026-07-26
-type: public outreach
+type: outreach
 tag: gramsci
 role: "interview"
 image: "everything-is-ideology-logo.jpg"
