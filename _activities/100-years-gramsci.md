@@ -1,5 +1,5 @@
 ---
-title: "Symposium: 100 years of Gramsci's Prison Letters and Notebooks"
+title: "Gramsci's Body in Prison"
 date: 2026-05-21
 type: academic
 tag: gramsci
