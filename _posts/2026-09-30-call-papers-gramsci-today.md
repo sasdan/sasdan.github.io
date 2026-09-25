@@ -21,9 +21,9 @@ We invite contributions from a variety of fields that engage with postcolonial a
 
 We welcome proposals for contributions on the following themes:
 
-> - contemporary relevance and readings of ‘classic’ Gramscian notions such as subalternity, hegemony, or organic intellectuals;
-> - contemporary relevance and usages of understudied notions such as the molecular, subject formation as a collective-individual process, conformism, folklore, common and good sense, the relation between nature and culture, reflections on technology, epistemological questions, historical determinism, etc.;
-> - the future of Gramscian scholarship in relation to postcolonial and gender studies.
+- contemporary relevance and readings of ‘classic’ Gramscian notions such as subalternity, hegemony, or organic intellectuals;
+- contemporary relevance and usages of understudied notions such as the molecular, subject formation as a collective-individual process, conformism, folklore, common and good sense, the relation between nature and culture, reflections on technology, epistemological questions, historical determinism, etc.;
+- the future of Gramscian scholarship in relation to postcolonial and gender studies.
 
 
 Planned timeline
