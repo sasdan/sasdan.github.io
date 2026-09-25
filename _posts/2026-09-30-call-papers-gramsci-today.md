@@ -35,4 +35,4 @@ Notification of selection: **17 November 2026**
 
 Submission full chapter: **17 March 2027**
 
-We are very much looking forward to receiving your abstract (150-200 words) and a short bio as a pdf file, to be sent to saskia.kroonenberg@ru.nl.
+We are very much looking forward to receiving your abstract (150-200 words) and a short bio as a pdf file, to be sent to [saskia.kroonenberg@ru.nl](mailto:saskia.kroonenberg@ru.nl).
